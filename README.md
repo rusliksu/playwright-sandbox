@@ -99,7 +99,28 @@ npx playwright test visual.spec.ts --ui
 
 ## perf.spec.ts
 
-Измеряет Web Vitals через `PerformanceNavigationTiming` и `PerformanceObserver`.
+Измеряет производительность через `PerformanceNavigationTiming` и `PerformanceObserver`:
+
+| Тест | Что измеряем |
+|------|-------------|
+| Core Web Vitals — главная | TTFB, FCP, DOMContentLoaded, размер страницы |
+| Core Web Vitals — корпорации | те же метрики для страницы с 67 картами |
+| Сетевые запросы | типы ресурсов, количество, суммарный размер |
+| 5 холодных загрузок | min/max/avg DOMContentLoaded |
+| LCP через PerformanceObserver | Largest Contentful Paint с оценкой Good/Needs Improvement/Poor |
+
+## Итоги
+
+**25 тестов, все зелёные:**
+
+| Файл | Тестов |
+|------|--------|
+| `a11y.spec.ts` | 7 |
+| `api-intercept.spec.ts` | 5 |
+| `perf.spec.ts` | 4 |
+| `scrape.spec.ts` | 1 |
+| `visual.spec.ts` | 7 |
+| **Итого** | **25** |
 
 ## Стек
 
