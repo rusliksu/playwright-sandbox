@@ -10,6 +10,7 @@
 |------|-----------|
 | `a11y.spec.ts` | WCAG 2.1 AA проверка всех страниц через axe-core |
 | `api-intercept.spec.ts` | Перехват запросов, мок, passthrough, блокировка ресурсов |
+| `e2e.spec.ts` | End-to-end: навигация, язык, фильтры, поиск, модалка |
 | `perf.spec.ts` | Замер LCP, FCP, TTFB через Performance API |
 | `scrape.spec.ts` | Парсинг карт с тир-листа → JSON |
 | `visual.spec.ts` | Visual regression — 7 тестов, pixel-perfect сравнение |
@@ -109,18 +110,35 @@ npx playwright test visual.spec.ts --ui
 | 5 холодных загрузок | min/max/avg DOMContentLoaded |
 | LCP через PerformanceObserver | Largest Contentful Paint с оценкой Good/Needs Improvement/Poor |
 
+## e2e.spec.ts
+
+End-to-end тесты пользовательских сценариев:
+
+| Группа | Тестов | Что проверяем |
+|--------|--------|---------------|
+| Навигация | 2 | главная → корпорации → прелюдии → назад; все 4 страницы открываются |
+| Язык | 2 | RU→EN меняет тексты; EN→RU возвращает кириллицу |
+| Фильтры | 3 | фильтр по тиру; фильтр по тегу; кнопка сброса |
+| Поиск | 2 | поиск по имени; поиск без результатов даёт 0 карт |
+| Модалка | 3 | открытие с данными; закрытие ×; навигация prev/next |
+
+**Нюансы реализации:**
+- URL-проверка через regex: GitHub Pages может вернуть `/index.html` вместо `/`
+- Тир-фильтр: `data-tier` нет на карточках (тир в JS-объекте `cardsData`), поэтому проверяем через `#tier-S .card:not(.filtered-out)` vs общий счётчик
+
 ## Итоги
 
-**25 тестов, все зелёные:**
+**37 тестов, все зелёные:**
 
 | Файл | Тестов |
 |------|--------|
 | `a11y.spec.ts` | 7 |
 | `api-intercept.spec.ts` | 5 |
+| `e2e.spec.ts` | 12 |
 | `perf.spec.ts` | 4 |
 | `scrape.spec.ts` | 1 |
 | `visual.spec.ts` | 7 |
-| **Итого** | **25** |
+| **Итого** | **37** |
 
 ## Стек
 
