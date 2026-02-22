@@ -1,0 +1,6840 @@
+[
+  {
+    "name": "Point Luna",
+    "tier": "S",
+    "score": 90,
+    "expansion": "Prelude",
+    "tags": [
+      "Space",
+      "Earth"
+    ],
+    "category": "Корпорации"
+  },
+  {
+    "name": "CrediCor",
+    "tier": "A",
+    "score": 88,
+    "expansion": "Base",
+    "tags": [],
+    "category": "Корпорации"
+  },
+  {
+    "name": "Manutech",
+    "tier": "A",
+    "score": 88,
+    "expansion": "Venus Next",
+    "tags": [
+      "Building"
+    ],
+    "category": "Корпорации"
+  },
+  {
+    "name": "Polaris",
+    "tier": "A",
+    "score": 86,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Space"
+    ],
+    "category": "Корпорации"
+  },
+  {
+    "name": "EcoLine",
+    "tier": "A",
+    "score": 85,
+    "expansion": "Base",
+    "tags": [
+      "Plant"
+    ],
+    "category": "Корпорации"
+  },
+  {
+    "name": "Vitor",
+    "tier": "A",
+    "score": 85,
+    "expansion": "Prelude",
+    "tags": [
+      "Earth"
+    ],
+    "category": "Корпорации"
+  },
+  {
+    "name": "Tharsis Republic",
+    "tier": "A",
+    "score": 83,
+    "expansion": "Base",
+    "tags": [
+      "Building"
+    ],
+    "category": "Корпорации"
+  },
+  {
+    "name": "Lakefront Resorts",
+    "tier": "A",
+    "score": 82,
+    "expansion": "Turmoil",
+    "tags": [
+      "Building"
+    ],
+    "category": "Корпорации"
+  },
+  {
+    "name": "Poseidon",
+    "tier": "A",
+    "score": 82,
+    "expansion": "Colonies",
+    "tags": [],
+    "category": "Корпорации"
+  },
+  {
+    "name": "Philares",
+    "tier": "A",
+    "score": 80,
+    "expansion": "Promo",
+    "tags": [
+      "Building"
+    ],
+    "category": "Корпорации"
+  },
+  {
+    "name": "SolBank",
+    "tier": "A",
+    "score": 80,
+    "expansion": "Pathfinders",
+    "tags": [],
+    "category": "Корпорации"
+  },
+  {
+    "name": "Teractor",
+    "tier": "B",
+    "score": 78,
+    "expansion": "Corporate Era",
+    "tags": [
+      "Earth"
+    ],
+    "category": "Корпорации"
+  },
+  {
+    "name": "HabitatMarte",
+    "tier": "B",
+    "score": 78,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Mars"
+    ],
+    "category": "Корпорации"
+  },
+  {
+    "name": "Odyssey",
+    "tier": "B",
+    "score": 78,
+    "expansion": "Pathfinders",
+    "tags": [],
+    "category": "Корпорации"
+  },
+  {
+    "name": "CollegiumCopernicus",
+    "tier": "B",
+    "score": 76,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Science",
+      "Earth"
+    ],
+    "category": "Корпорации"
+  },
+  {
+    "name": "MarsMaths",
+    "tier": "B",
+    "score": 76,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Science"
+    ],
+    "category": "Корпорации"
+  },
+  {
+    "name": "Ringcom",
+    "tier": "B",
+    "score": 76,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Jovian"
+    ],
+    "category": "Корпорации"
+  },
+  {
+    "name": "Helion",
+    "tier": "B",
+    "score": 75,
+    "expansion": "Base",
+    "tags": [
+      "Space"
+    ],
+    "category": "Корпорации"
+  },
+  {
+    "name": "Valley Trust",
+    "tier": "B",
+    "score": 75,
+    "expansion": "Prelude",
+    "tags": [
+      "Earth"
+    ],
+    "category": "Корпорации"
+  },
+  {
+    "name": "Interplanetary Cinematics",
+    "tier": "B",
+    "score": 74,
+    "expansion": "Base",
+    "tags": [
+      "Building"
+    ],
+    "category": "Корпорации"
+  },
+  {
+    "name": "Spire",
+    "tier": "B",
+    "score": 73,
+    "expansion": "Prelude 2",
+    "tags": [
+      "City",
+      "Earth"
+    ],
+    "category": "Корпорации"
+  },
+  {
+    "name": "Cheung Shing MARS",
+    "tier": "B",
+    "score": 72,
+    "expansion": "Prelude",
+    "tags": [
+      "Building"
+    ],
+    "category": "Корпорации"
+  },
+  {
+    "name": "PolderTECH Dutch",
+    "tier": "B",
+    "score": 72,
+    "expansion": "Promo",
+    "tags": [
+      "Earth"
+    ],
+    "category": "Корпорации"
+  },
+  {
+    "name": "Aurorai",
+    "tier": "B",
+    "score": 72,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Mars"
+    ],
+    "category": "Корпорации"
+  },
+  {
+    "name": "GagarinMobileBase",
+    "tier": "B",
+    "score": 72,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Science"
+    ],
+    "category": "Корпорации"
+  },
+  {
+    "name": "Morning Star Inc.",
+    "tier": "B",
+    "score": 70,
+    "expansion": "Venus Next",
+    "tags": [
+      "Venus"
+    ],
+    "category": "Корпорации"
+  },
+  {
+    "name": "Steelaris",
+    "tier": "B",
+    "score": 70,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Building",
+      "City"
+    ],
+    "category": "Корпорации"
+  },
+  {
+    "name": "Tycho Magnetics",
+    "tier": "C",
+    "score": 68,
+    "expansion": "Promo",
+    "tags": [
+      "Power",
+      "Science"
+    ],
+    "category": "Корпорации"
+  },
+  {
+    "name": "SoylentSeedlingSystems",
+    "tier": "C",
+    "score": 68,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Science",
+      "Plant"
+    ],
+    "category": "Корпорации"
+  },
+  {
+    "name": "Nirgal Enterprises",
+    "tier": "C",
+    "score": 67,
+    "expansion": "Prelude 2",
+    "tags": [
+      "Power",
+      "Plant",
+      "Building"
+    ],
+    "category": "Корпорации"
+  },
+  {
+    "name": "Septem Tribus",
+    "tier": "C",
+    "score": 66,
+    "expansion": "Turmoil",
+    "tags": [
+      "Wild"
+    ],
+    "category": "Корпорации"
+  },
+  {
+    "name": "MartianInsuranceGroup",
+    "tier": "C",
+    "score": 66,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Mars"
+    ],
+    "category": "Корпорации"
+  },
+  {
+    "name": "Saturn Systems",
+    "tier": "C",
+    "score": 65,
+    "expansion": "Corporate Era",
+    "tags": [
+      "Jovian"
+    ],
+    "category": "Корпорации"
+  },
+  {
+    "name": "MarsDirect",
+    "tier": "C",
+    "score": 65,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Mars"
+    ],
+    "category": "Корпорации"
+  },
+  {
+    "name": "EcoTec",
+    "tier": "C",
+    "score": 64,
+    "expansion": "Prelude 2",
+    "tags": [
+      "Microbe",
+      "Plant"
+    ],
+    "category": "Корпорации"
+  },
+  {
+    "name": "Robinson Industries",
+    "tier": "C",
+    "score": 64,
+    "expansion": "Prelude",
+    "tags": [],
+    "category": "Корпорации"
+  },
+  {
+    "name": "Inventrix",
+    "tier": "C",
+    "score": 63,
+    "expansion": "Base",
+    "tags": [
+      "Science"
+    ],
+    "category": "Корпорации"
+  },
+  {
+    "name": "Mons Insurance",
+    "tier": "C",
+    "score": 63,
+    "expansion": "Promo",
+    "tags": [],
+    "category": "Корпорации"
+  },
+  {
+    "name": "Sagitta Frontier Services",
+    "tier": "C",
+    "score": 63,
+    "expansion": "Prelude 2",
+    "tags": [],
+    "category": "Корпорации"
+  },
+  {
+    "name": "Arklight",
+    "tier": "C",
+    "score": 62,
+    "expansion": "Colonies",
+    "tags": [
+      "Animal"
+    ],
+    "category": "Корпорации"
+  },
+  {
+    "name": "Viron",
+    "tier": "C",
+    "score": 62,
+    "expansion": "Venus Next",
+    "tags": [
+      "Microbe"
+    ],
+    "category": "Корпорации"
+  },
+  {
+    "name": "Chimera",
+    "tier": "C",
+    "score": 62,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Wild",
+      "Wild"
+    ],
+    "category": "Корпорации"
+  },
+  {
+    "name": "MindSetMars",
+    "tier": "C",
+    "score": 62,
+    "expansion": "Pathfinders",
+    "tags": [],
+    "category": "Корпорации"
+  },
+  {
+    "name": "Aridor",
+    "tier": "C",
+    "score": 61,
+    "expansion": "Colonies",
+    "tags": [],
+    "category": "Корпорации"
+  },
+  {
+    "name": "Mining Guild",
+    "tier": "C",
+    "score": 60,
+    "expansion": "Base",
+    "tags": [
+      "Building",
+      "Building"
+    ],
+    "category": "Корпорации"
+  },
+  {
+    "name": "PhoboLog",
+    "tier": "C",
+    "score": 60,
+    "expansion": "Base",
+    "tags": [
+      "Space"
+    ],
+    "category": "Корпорации"
+  },
+  {
+    "name": "Pristar",
+    "tier": "C",
+    "score": 60,
+    "expansion": "Turmoil",
+    "tags": [],
+    "category": "Корпорации"
+  },
+  {
+    "name": "Ambient",
+    "tier": "C",
+    "score": 60,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Venus"
+    ],
+    "category": "Корпорации"
+  },
+  {
+    "name": "Factorum",
+    "tier": "C",
+    "score": 58,
+    "expansion": "Promo",
+    "tags": [
+      "Power",
+      "Building"
+    ],
+    "category": "Корпорации"
+  },
+  {
+    "name": "Palladin Shipping",
+    "tier": "C",
+    "score": 58,
+    "expansion": "Prelude 2",
+    "tags": [
+      "Space"
+    ],
+    "category": "Корпорации"
+  },
+  {
+    "name": "RobinHaulings",
+    "tier": "C",
+    "score": 58,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Mars",
+      "Venus"
+    ],
+    "category": "Корпорации"
+  },
+  {
+    "name": "Thorgate",
+    "tier": "C",
+    "score": 56,
+    "expansion": "Base",
+    "tags": [
+      "Power"
+    ],
+    "category": "Корпорации"
+  },
+  {
+    "name": "Utopia Invest",
+    "tier": "C",
+    "score": 55,
+    "expansion": "Turmoil",
+    "tags": [
+      "Building"
+    ],
+    "category": "Корпорации"
+  },
+  {
+    "name": "Arcadian Communities",
+    "tier": "D",
+    "score": 54,
+    "expansion": "Promo",
+    "tags": [],
+    "category": "Корпорации"
+  },
+  {
+    "name": "Stormcraft Incorporated",
+    "tier": "D",
+    "score": 54,
+    "expansion": "Colonies",
+    "tags": [
+      "Jovian"
+    ],
+    "category": "Корпорации"
+  },
+  {
+    "name": "Celestic",
+    "tier": "D",
+    "score": 52,
+    "expansion": "Venus Next",
+    "tags": [
+      "Venus"
+    ],
+    "category": "Корпорации"
+  },
+  {
+    "name": "Pharmacy Union",
+    "tier": "D",
+    "score": 52,
+    "expansion": "Promo",
+    "tags": [
+      "Microbe",
+      "Microbe"
+    ],
+    "category": "Корпорации"
+  },
+  {
+    "name": "Aphrodite",
+    "tier": "D",
+    "score": 50,
+    "expansion": "Venus Next",
+    "tags": [
+      "Plant",
+      "Venus"
+    ],
+    "category": "Корпорации"
+  },
+  {
+    "name": "BioSol",
+    "tier": "D",
+    "score": 50,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Microbe"
+    ],
+    "category": "Корпорации"
+  },
+  {
+    "name": "Kuiper Cooperative",
+    "tier": "D",
+    "score": 48,
+    "expansion": "Promo",
+    "tags": [
+      "Space",
+      "Space"
+    ],
+    "category": "Корпорации"
+  },
+  {
+    "name": "Recyclon",
+    "tier": "D",
+    "score": 48,
+    "expansion": "Promo",
+    "tags": [
+      "Microbe",
+      "Building"
+    ],
+    "category": "Корпорации"
+  },
+  {
+    "name": "AdhaiHighOrbitConstructions",
+    "tier": "D",
+    "score": 48,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Space"
+    ],
+    "category": "Корпорации"
+  },
+  {
+    "name": "Astrodrill",
+    "tier": "D",
+    "score": 45,
+    "expansion": "Promo",
+    "tags": [
+      "Space"
+    ],
+    "category": "Корпорации"
+  },
+  {
+    "name": "Splice",
+    "tier": "D",
+    "score": 44,
+    "expansion": "Promo",
+    "tags": [
+      "Microbe"
+    ],
+    "category": "Корпорации"
+  },
+  {
+    "name": "United Nations Mars Initiative",
+    "tier": "D",
+    "score": 42,
+    "expansion": "Base",
+    "tags": [
+      "Earth"
+    ],
+    "category": "Корпорации"
+  },
+  {
+    "name": "Polyphemos",
+    "tier": "D",
+    "score": 40,
+    "expansion": "Colonies",
+    "tags": [],
+    "category": "Корпорации"
+  },
+  {
+    "name": "Terralabs Research",
+    "tier": "D",
+    "score": 38,
+    "expansion": "Turmoil",
+    "tags": [
+      "Science",
+      "Earth"
+    ],
+    "category": "Корпорации"
+  },
+  {
+    "name": "Project Eden",
+    "tier": "S",
+    "score": 90,
+    "expansion": "Prelude 2",
+    "tags": [
+      "City",
+      "Plant"
+    ],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "High Circles",
+    "tier": "A",
+    "score": 85,
+    "expansion": "Prelude 2",
+    "tags": [
+      "Earth"
+    ],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "Great Aquifer",
+    "tier": "A",
+    "score": 84,
+    "expansion": "Prelude",
+    "tags": [],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "Huge Asteroid",
+    "tier": "A",
+    "score": 83,
+    "expansion": "Prelude",
+    "tags": [],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "UNMI Contractor",
+    "tier": "A",
+    "score": 82,
+    "expansion": "Prelude",
+    "tags": [
+      "Earth"
+    ],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "Experimental Forest",
+    "tier": "A",
+    "score": 82,
+    "expansion": "Prelude",
+    "tags": [
+      "Plant"
+    ],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "Planetary Alliance",
+    "tier": "A",
+    "score": 82,
+    "expansion": "Prelude 2",
+    "tags": [
+      "Earth",
+      "Jovian",
+      "Venus"
+    ],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "ResearchGrant",
+    "tier": "A",
+    "score": 82,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Science",
+      "Science"
+    ],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "Allied Bank",
+    "tier": "A",
+    "score": 80,
+    "expansion": "Prelude",
+    "tags": [
+      "Earth"
+    ],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "Metal-Rich Asteroid",
+    "tier": "A",
+    "score": 80,
+    "expansion": "Prelude",
+    "tags": [],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "HydrogenBombardment",
+    "tier": "A",
+    "score": 80,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Space",
+      "Venus"
+    ],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "Business Empire",
+    "tier": "B",
+    "score": 79,
+    "expansion": "Prelude",
+    "tags": [
+      "Earth"
+    ],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "VitalColony",
+    "tier": "B",
+    "score": 79,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Mars",
+      "Space"
+    ],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "Atmospheric Enhancers",
+    "tier": "B",
+    "score": 78,
+    "expansion": "Prelude 2",
+    "tags": [
+      "Venus"
+    ],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "CO2Reducers",
+    "tier": "B",
+    "score": 78,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Microbe",
+      "Venus"
+    ],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "Early Colonization",
+    "tier": "B",
+    "score": 77,
+    "expansion": "Prelude 2",
+    "tags": [
+      "Space"
+    ],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "Metals Company",
+    "tier": "B",
+    "score": 76,
+    "expansion": "Prelude",
+    "tags": [],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "Soil Bacteria",
+    "tier": "B",
+    "score": 76,
+    "expansion": "Prelude 2",
+    "tags": [
+      "Microbe"
+    ],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "Double Down",
+    "tier": "B",
+    "score": 76,
+    "expansion": "Promo",
+    "tags": [],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "SurveyMission",
+    "tier": "B",
+    "score": 76,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Mars"
+    ],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "ValuableGases",
+    "tier": "B",
+    "score": 76,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Jovian",
+      "Venus"
+    ],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "Acquired Space Agency",
+    "tier": "B",
+    "score": 74,
+    "expansion": "Prelude",
+    "tags": [],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "Polar Industries",
+    "tier": "B",
+    "score": 74,
+    "expansion": "Prelude",
+    "tags": [
+      "Building"
+    ],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "Strategic Base Planning",
+    "tier": "B",
+    "score": 74,
+    "expansion": "Promo",
+    "tags": [
+      "City",
+      "Building",
+      "Space"
+    ],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "DesignCompany",
+    "tier": "B",
+    "score": 74,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Mars"
+    ],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "Corporate Archives",
+    "tier": "B",
+    "score": 73,
+    "expansion": "Promo",
+    "tags": [
+      "Science"
+    ],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "Research Network",
+    "tier": "B",
+    "score": 73,
+    "expansion": "Prelude",
+    "tags": [
+      "Wild"
+    ],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "Space Lanes",
+    "tier": "B",
+    "score": 73,
+    "expansion": "Prelude 2",
+    "tags": [
+      "Space"
+    ],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "VenusFirst",
+    "tier": "B",
+    "score": 73,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Venus"
+    ],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "Aquifer Turbines",
+    "tier": "B",
+    "score": 72,
+    "expansion": "Prelude",
+    "tags": [
+      "Power"
+    ],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "Merger",
+    "tier": "B",
+    "score": 72,
+    "expansion": "Promo",
+    "tags": [],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "Smelting Plant",
+    "tier": "B",
+    "score": 72,
+    "expansion": "Prelude",
+    "tags": [
+      "Building"
+    ],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "DeepSpaceOperations",
+    "tier": "B",
+    "score": 72,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Space"
+    ],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "PersonalAgenda",
+    "tier": "B",
+    "score": 72,
+    "expansion": "Pathfinders",
+    "tags": [],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "Supply Drop",
+    "tier": "B",
+    "score": 71,
+    "expansion": "Prelude",
+    "tags": [],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "Ecology Experts",
+    "tier": "B",
+    "score": 70,
+    "expansion": "Prelude",
+    "tags": [
+      "Plant",
+      "Microbe"
+    ],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "New Partner",
+    "tier": "B",
+    "score": 70,
+    "expansion": "Promo",
+    "tags": [],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "World Government Advisor",
+    "tier": "B",
+    "score": 70,
+    "expansion": "Prelude 2",
+    "tags": [
+      "Earth"
+    ],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "TheNewSpaceRace",
+    "tier": "B",
+    "score": 70,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Science",
+      "Earth"
+    ],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "Corridors of Power",
+    "tier": "C",
+    "score": 68,
+    "expansion": "Prelude 2",
+    "tags": [
+      "Earth"
+    ],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "ExperiencedMartians",
+    "tier": "C",
+    "score": 68,
+    "expansion": "Pathfinders",
+    "tags": [],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "Rise To Power",
+    "tier": "C",
+    "score": 66,
+    "expansion": "Prelude 2",
+    "tags": [],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "Supplier",
+    "tier": "C",
+    "score": 66,
+    "expansion": "Prelude",
+    "tags": [
+      "Power"
+    ],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "Focused Organization",
+    "tier": "C",
+    "score": 66,
+    "expansion": "Prelude 2",
+    "tags": [],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "CrewTraining",
+    "tier": "C",
+    "score": 65,
+    "expansion": "Pathfinders",
+    "tags": [],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "Power Generation",
+    "tier": "C",
+    "score": 64,
+    "expansion": "Prelude",
+    "tags": [
+      "Power"
+    ],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "Dome Farming",
+    "tier": "C",
+    "score": 63,
+    "expansion": "Prelude",
+    "tags": [
+      "Plant",
+      "Building"
+    ],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "Mining Operations",
+    "tier": "C",
+    "score": 62,
+    "expansion": "Prelude",
+    "tags": [
+      "Building"
+    ],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "Terraforming Deal",
+    "tier": "C",
+    "score": 62,
+    "expansion": "Prelude 2",
+    "tags": [
+      "Earth"
+    ],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "Donation",
+    "tier": "C",
+    "score": 60,
+    "expansion": "Prelude",
+    "tags": [],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "Venus L1 Shade",
+    "tier": "C",
+    "score": 60,
+    "expansion": "Prelude 2",
+    "tags": [
+      "Space"
+    ],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "Eccentric Sponsor",
+    "tier": "C",
+    "score": 58,
+    "expansion": "Prelude",
+    "tags": [],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "Industrial Complex",
+    "tier": "C",
+    "score": 58,
+    "expansion": "Prelude 2",
+    "tags": [
+      "Building"
+    ],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "Old Mining Colony",
+    "tier": "C",
+    "score": 58,
+    "expansion": "Prelude 2",
+    "tags": [
+      "Space"
+    ],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "Recession",
+    "tier": "C",
+    "score": 58,
+    "expansion": "Prelude 2",
+    "tags": [],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "Main Belt Asteroids",
+    "tier": "C",
+    "score": 57,
+    "expansion": "Prelude 2",
+    "tags": [
+      "Space"
+    ],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "Floating Trade Hub",
+    "tier": "C",
+    "score": 55,
+    "expansion": "Prelude 2",
+    "tags": [
+      "Space"
+    ],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "Orbital Construction Yard",
+    "tier": "C",
+    "score": 55,
+    "expansion": "Prelude",
+    "tags": [
+      "Space"
+    ],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "Board of Directors",
+    "tier": "C",
+    "score": 55,
+    "expansion": "Prelude 2",
+    "tags": [
+      "Earth"
+    ],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "Self-Sufficient Settlement",
+    "tier": "D",
+    "score": 53,
+    "expansion": "Prelude",
+    "tags": [
+      "Building",
+      "City"
+    ],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "Anti-desertification Techniques",
+    "tier": "D",
+    "score": 52,
+    "expansion": "Promo",
+    "tags": [
+      "Microbe",
+      "Plant"
+    ],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "Martian Industries",
+    "tier": "D",
+    "score": 52,
+    "expansion": "Prelude",
+    "tags": [
+      "Building"
+    ],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "Mohole",
+    "tier": "D",
+    "score": 52,
+    "expansion": "Prelude",
+    "tags": [
+      "Building"
+    ],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "Biolab",
+    "tier": "D",
+    "score": 50,
+    "expansion": "Prelude",
+    "tags": [
+      "Science"
+    ],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "Early Settlement",
+    "tier": "D",
+    "score": 50,
+    "expansion": "Prelude",
+    "tags": [
+      "Building",
+      "City"
+    ],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "Colony Trade Hub",
+    "tier": "D",
+    "score": 48,
+    "expansion": "Prelude 2",
+    "tags": [
+      "Space"
+    ],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "Giant Solar Collector",
+    "tier": "D",
+    "score": 48,
+    "expansion": "Promo",
+    "tags": [
+      "Power",
+      "Space"
+    ],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "Mohole Excavation",
+    "tier": "D",
+    "score": 48,
+    "expansion": "Prelude",
+    "tags": [
+      "Building"
+    ],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "Preservation Program",
+    "tier": "D",
+    "score": 48,
+    "expansion": "Prelude 2",
+    "tags": [],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "Venus Contract",
+    "tier": "D",
+    "score": 46,
+    "expansion": "Prelude 2",
+    "tags": [
+      "Venus"
+    ],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "Nobel Prize",
+    "tier": "D",
+    "score": 45,
+    "expansion": "Prelude 2",
+    "tags": [
+      "Wild"
+    ],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "Loan",
+    "tier": "D",
+    "score": 44,
+    "expansion": "Prelude",
+    "tags": [],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "Io Research Outpost",
+    "tier": "D",
+    "score": 43,
+    "expansion": "Prelude",
+    "tags": [
+      "Jovian",
+      "Science"
+    ],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "Applied Science",
+    "tier": "D",
+    "score": 42,
+    "expansion": "Prelude 2",
+    "tags": [
+      "Wild"
+    ],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "Galilean Mining",
+    "tier": "D",
+    "score": 42,
+    "expansion": "Prelude",
+    "tags": [
+      "Jovian"
+    ],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "Biofuels",
+    "tier": "D",
+    "score": 40,
+    "expansion": "Prelude",
+    "tags": [
+      "Microbe"
+    ],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "Biosphere Support",
+    "tier": "D",
+    "score": 38,
+    "expansion": "Prelude",
+    "tags": [
+      "Plant"
+    ],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "Nitrogen Shipment",
+    "tier": "D",
+    "score": 36,
+    "expansion": "Prelude",
+    "tags": [],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "Society Support",
+    "tier": "F",
+    "score": 30,
+    "expansion": "Prelude",
+    "tags": [],
+    "category": "Прелюдии"
+  },
+  {
+    "name": "Space Port Colony",
+    "tier": "S",
+    "score": 93,
+    "expansion": "Colonies",
+    "tags": [
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Research Colony",
+    "tier": "S",
+    "score": 92,
+    "expansion": "Colonies",
+    "tags": [
+      "Space",
+      "Science"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Spin-off Department",
+    "tier": "S",
+    "score": 92,
+    "expansion": "Colonies",
+    "tags": [
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Sky Docks",
+    "tier": "S",
+    "score": 91,
+    "expansion": "Colonies",
+    "tags": [
+      "Space",
+      "Earth"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Nitrogen-Rich Asteroid",
+    "tier": "S",
+    "score": 90,
+    "expansion": "Base",
+    "tags": [
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Earth Catapult",
+    "tier": "A",
+    "score": 88,
+    "expansion": "Corporate Era",
+    "tags": [
+      "Earth"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Mars University",
+    "tier": "A",
+    "score": 88,
+    "expansion": "Corporate Era",
+    "tags": [
+      "Science",
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Solar Logistics",
+    "tier": "A",
+    "score": 88,
+    "expansion": "Promo",
+    "tags": [
+      "Earth",
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Research Outpost",
+    "tier": "A",
+    "score": 87,
+    "expansion": "Base",
+    "tags": [
+      "Science",
+      "City",
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Kelp Farming",
+    "tier": "A",
+    "score": 87,
+    "expansion": "Base",
+    "tags": [
+      "Plant"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Insects",
+    "tier": "A",
+    "score": 86,
+    "expansion": "Base",
+    "tags": [
+      "Microbe"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Olympus Conference",
+    "tier": "A",
+    "score": 85,
+    "expansion": "Corporate Era",
+    "tags": [
+      "Science",
+      "Earth",
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "DysonScreens",
+    "tier": "A",
+    "score": 85,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Science",
+      "Venus",
+      "Power",
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Giant Ice Asteroid",
+    "tier": "A",
+    "score": 84,
+    "expansion": "Base",
+    "tags": [
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "L1 Trade Terminal",
+    "tier": "A",
+    "score": 84,
+    "expansion": "Prelude 2",
+    "tags": [
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Protected Habitats",
+    "tier": "A",
+    "score": 84,
+    "expansion": "Corporate Era",
+    "tags": [],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Cutting Edge Technology",
+    "tier": "A",
+    "score": 84,
+    "expansion": "Promo",
+    "tags": [
+      "Science"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Arctic Algae",
+    "tier": "A",
+    "score": 84,
+    "expansion": "Base",
+    "tags": [
+      "Plant"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Ecological Zone",
+    "tier": "A",
+    "score": 83,
+    "expansion": "Base",
+    "tags": [
+      "Animal",
+      "Plant"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "AI Central",
+    "tier": "A",
+    "score": 82,
+    "expansion": "Corporate Era",
+    "tags": [
+      "Science",
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Deimos Down",
+    "tier": "A",
+    "score": 82,
+    "expansion": "Base",
+    "tags": [
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Earth Office",
+    "tier": "A",
+    "score": 82,
+    "expansion": "Corporate Era",
+    "tags": [
+      "Earth"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Large Convoy",
+    "tier": "A",
+    "score": 82,
+    "expansion": "Base",
+    "tags": [
+      "Earth",
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Psychrophiles",
+    "tier": "A",
+    "score": 82,
+    "expansion": "Prelude",
+    "tags": [
+      "Microbe"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Viral Enhancers",
+    "tier": "A",
+    "score": 82,
+    "expansion": "Corporate Era",
+    "tags": [
+      "Science",
+      "Microbe"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Indentured Workers",
+    "tier": "A",
+    "score": 82,
+    "expansion": "Corporate Era",
+    "tags": [],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "LunarEmbassy",
+    "tier": "A",
+    "score": 82,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Earth",
+      "Mars",
+      "City",
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Anti-Gravity Technology",
+    "tier": "A",
+    "score": 80,
+    "expansion": "Corporate Era",
+    "tags": [
+      "Science"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Conscription",
+    "tier": "A",
+    "score": 80,
+    "expansion": "Colonies",
+    "tags": [
+      "Earth"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Deimos Down:promo",
+    "tier": "A",
+    "score": 80,
+    "expansion": "Promo",
+    "tags": [
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Imported Nitrogen",
+    "tier": "A",
+    "score": 80,
+    "expansion": "Base",
+    "tags": [
+      "Earth",
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Nuclear Zone",
+    "tier": "A",
+    "score": 80,
+    "expansion": "Base",
+    "tags": [
+      "Earth"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Optimal Aerobraking",
+    "tier": "A",
+    "score": 80,
+    "expansion": "Base",
+    "tags": [
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Research",
+    "tier": "A",
+    "score": 80,
+    "expansion": "Corporate Era",
+    "tags": [
+      "Science",
+      "Science"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Space Port",
+    "tier": "A",
+    "score": 80,
+    "expansion": "Colonies",
+    "tags": [
+      "City",
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Terraforming Ganymede",
+    "tier": "A",
+    "score": 80,
+    "expansion": "Corporate Era",
+    "tags": [
+      "Jovian",
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Imported Hydrogen",
+    "tier": "A",
+    "score": 80,
+    "expansion": "Base",
+    "tags": [
+      "Earth",
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Mass Converter",
+    "tier": "A",
+    "score": 80,
+    "expansion": "Corporate Era",
+    "tags": [
+      "Science",
+      "Power"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Advanced Ecosystems",
+    "tier": "B",
+    "score": 78,
+    "expansion": "Base",
+    "tags": [
+      "Plant",
+      "Microbe",
+      "Animal"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Dusk Laser Mining",
+    "tier": "B",
+    "score": 78,
+    "expansion": "Promo",
+    "tags": [
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Mangrove",
+    "tier": "B",
+    "score": 78,
+    "expansion": "Base",
+    "tags": [
+      "Plant"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Space Hotels",
+    "tier": "B",
+    "score": 78,
+    "expansion": "Prelude",
+    "tags": [
+      "Space",
+      "Earth"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Trading Colony",
+    "tier": "B",
+    "score": 78,
+    "expansion": "Colonies",
+    "tags": [
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Mining Colony",
+    "tier": "B",
+    "score": 78,
+    "expansion": "Colonies",
+    "tags": [
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Venus Orbital Survey",
+    "tier": "B",
+    "score": 78,
+    "expansion": "Prelude 2",
+    "tags": [
+      "Venus",
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Meat Industry",
+    "tier": "B",
+    "score": 78,
+    "expansion": "Promo",
+    "tags": [
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "SpaceRelay",
+    "tier": "B",
+    "score": 78,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Space",
+      "Jovian"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "TerraformingControlStation",
+    "tier": "B",
+    "score": 78,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Venus",
+      "Mars",
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Mars Nomads",
+    "tier": "B",
+    "score": 77,
+    "expansion": "Promo",
+    "tags": [],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Trade Envoys",
+    "tier": "B",
+    "score": 77,
+    "expansion": "Colonies",
+    "tags": [],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Electro Catapult",
+    "tier": "B",
+    "score": 77,
+    "expansion": "Corporate Era",
+    "tags": [
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Stratospheric Birds",
+    "tier": "B",
+    "score": 77,
+    "expansion": "Venus Next",
+    "tags": [
+      "Venus",
+      "Animal"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Standard Technology",
+    "tier": "B",
+    "score": 77,
+    "expansion": "Corporate Era",
+    "tags": [
+      "Science"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "CeresSpaceport",
+    "tier": "B",
+    "score": 77,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Jovian",
+      "Jovian",
+      "City",
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Wetlands",
+    "tier": "B",
+    "score": 77,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Plant",
+      "Mars"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Astra Mechanica",
+    "tier": "B",
+    "score": 76,
+    "expansion": "Promo",
+    "tags": [
+      "Science"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Cultural Metropolis",
+    "tier": "B",
+    "score": 76,
+    "expansion": "Turmoil",
+    "tags": [
+      "City",
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Ice Moon Colony",
+    "tier": "B",
+    "score": 76,
+    "expansion": "Colonies",
+    "tags": [
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Media Group",
+    "tier": "B",
+    "score": 76,
+    "expansion": "Corporate Era",
+    "tags": [
+      "Earth"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Red Spot Observatory",
+    "tier": "B",
+    "score": 76,
+    "expansion": "Colonies",
+    "tags": [
+      "Jovian",
+      "Science"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Sub-Crust Measurements",
+    "tier": "B",
+    "score": 76,
+    "expansion": "Promo",
+    "tags": [
+      "Science",
+      "Building",
+      "Earth"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Birds",
+    "tier": "B",
+    "score": 76,
+    "expansion": "Base",
+    "tags": [
+      "Animal"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Penguins",
+    "tier": "B",
+    "score": 76,
+    "expansion": "Promo",
+    "tags": [
+      "Animal"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "GeologicalExpedition",
+    "tier": "B",
+    "score": 76,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Mars",
+      "Science"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "VeneraBase",
+    "tier": "B",
+    "score": 76,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Venus",
+      "Venus",
+      "City"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Ganymede Colony",
+    "tier": "B",
+    "score": 75,
+    "expansion": "Base",
+    "tags": [
+      "Jovian",
+      "Space",
+      "City"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Ice Asteroid",
+    "tier": "B",
+    "score": 75,
+    "expansion": "Base",
+    "tags": [
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Mohole Area",
+    "tier": "B",
+    "score": 75,
+    "expansion": "Base",
+    "tags": [
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Quantum Communications",
+    "tier": "B",
+    "score": 75,
+    "expansion": "Colonies",
+    "tags": [],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Trees",
+    "tier": "B",
+    "score": 75,
+    "expansion": "Base",
+    "tags": [
+      "Plant"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Red Ships",
+    "tier": "B",
+    "score": 75,
+    "expansion": "Promo",
+    "tags": [],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Cartel",
+    "tier": "B",
+    "score": 75,
+    "expansion": "Corporate Era",
+    "tags": [
+      "Earth"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "HuygensObservatory",
+    "tier": "B",
+    "score": 75,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Science",
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "MartianDustProcessingPlant",
+    "tier": "B",
+    "score": 75,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Mars",
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Atalanta Planitia Lab",
+    "tier": "B",
+    "score": 74,
+    "expansion": "Venus Next",
+    "tags": [
+      "Venus",
+      "Science"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Big Asteroid",
+    "tier": "B",
+    "score": 74,
+    "expansion": "Base",
+    "tags": [
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Field-Capped City",
+    "tier": "B",
+    "score": 74,
+    "expansion": "Promo",
+    "tags": [
+      "City",
+      "Building",
+      "Power"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Fish",
+    "tier": "B",
+    "score": 74,
+    "expansion": "Base",
+    "tags": [
+      "Animal"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "GMO Contract",
+    "tier": "B",
+    "score": 74,
+    "expansion": "Turmoil",
+    "tags": [
+      "Microbe",
+      "Science"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Homeostasis Bureau",
+    "tier": "B",
+    "score": 74,
+    "expansion": "Promo",
+    "tags": [
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Lunar Exports",
+    "tier": "B",
+    "score": 74,
+    "expansion": "Colonies",
+    "tags": [
+      "Earth",
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Mining Area",
+    "tier": "B",
+    "score": 74,
+    "expansion": "Corporate Era",
+    "tags": [
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Robotic Workforce",
+    "tier": "B",
+    "score": 74,
+    "expansion": "Corporate Era",
+    "tags": [
+      "Science"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Sulphur-Eating Bacteria",
+    "tier": "B",
+    "score": 74,
+    "expansion": "Venus Next",
+    "tags": [
+      "Venus",
+      "Microbe"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Topsoil Contract",
+    "tier": "B",
+    "score": 74,
+    "expansion": "Promo",
+    "tags": [
+      "Microbe",
+      "Earth"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Open City",
+    "tier": "B",
+    "score": 74,
+    "expansion": "Base",
+    "tags": [
+      "City",
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Sponsoring Nation",
+    "tier": "B",
+    "score": 74,
+    "expansion": "Prelude 2",
+    "tags": [
+      "Earth"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Business Network",
+    "tier": "B",
+    "score": 74,
+    "expansion": "Corporate Era",
+    "tags": [
+      "Earth"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Advanced Alloys",
+    "tier": "B",
+    "score": 74,
+    "expansion": "Corporate Era",
+    "tags": [
+      "Science"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "AsteroidResources",
+    "tier": "B",
+    "score": 74,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Jovian",
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Cyanobacteria",
+    "tier": "B",
+    "score": 74,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Microbe",
+      "Mars"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "PrefabricationofHumanHabitats",
+    "tier": "B",
+    "score": 74,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Building",
+      "City"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "ThinkTank",
+    "tier": "B",
+    "score": 74,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Mars",
+      "Venus",
+      "Science"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Algae",
+    "tier": "B",
+    "score": 73,
+    "expansion": "Base",
+    "tags": [
+      "Plant"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Energy Market",
+    "tier": "B",
+    "score": 73,
+    "expansion": "Promo",
+    "tags": [
+      "Power"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Frontier Town",
+    "tier": "B",
+    "score": 73,
+    "expansion": "Prelude 2",
+    "tags": [
+      "City",
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Interplanetary Colony Ship",
+    "tier": "B",
+    "score": 73,
+    "expansion": "Colonies",
+    "tags": [
+      "Space",
+      "Earth"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Martian Media Center",
+    "tier": "B",
+    "score": 73,
+    "expansion": "Turmoil",
+    "tags": [
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Terraforming Contract",
+    "tier": "B",
+    "score": 73,
+    "expansion": "Venus Next",
+    "tags": [
+      "Earth"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Warp Drive",
+    "tier": "B",
+    "score": 73,
+    "expansion": "Colonies",
+    "tags": [
+      "Science"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "FlatMarsTheory",
+    "tier": "B",
+    "score": 73,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Earth"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "MartianRepository",
+    "tier": "B",
+    "score": 73,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Mars",
+      "Mars",
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "SpecializedSettlement",
+    "tier": "B",
+    "score": 73,
+    "expansion": "Pathfinders",
+    "tags": [
+      "City",
+      "Building",
+      "Mars"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Asteroid Rights",
+    "tier": "B",
+    "score": 72,
+    "expansion": "Promo",
+    "tags": [
+      "Earth",
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Carbon Nanosystems",
+    "tier": "B",
+    "score": 72,
+    "expansion": "Promo",
+    "tags": [
+      "Science",
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Caretaker Contract",
+    "tier": "B",
+    "score": 72,
+    "expansion": "Corporate Era",
+    "tags": [],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Comet",
+    "tier": "B",
+    "score": 72,
+    "expansion": "Base",
+    "tags": [
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Decomposers",
+    "tier": "B",
+    "score": 72,
+    "expansion": "Base",
+    "tags": [
+      "Microbe"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Ecology Research",
+    "tier": "B",
+    "score": 72,
+    "expansion": "Colonies",
+    "tags": [
+      "Science",
+      "Plant",
+      "Animal",
+      "Microbe"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Event Analysts",
+    "tier": "B",
+    "score": 72,
+    "expansion": "Turmoil",
+    "tags": [
+      "Science"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Harvest",
+    "tier": "B",
+    "score": 72,
+    "expansion": "Promo",
+    "tags": [
+      "Plant"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Imported Nutrients",
+    "tier": "B",
+    "score": 72,
+    "expansion": "Promo",
+    "tags": [
+      "Earth",
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Kaguya Tech",
+    "tier": "B",
+    "score": 72,
+    "expansion": "Promo",
+    "tags": [
+      "City",
+      "Plant"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Livestock",
+    "tier": "B",
+    "score": 72,
+    "expansion": "Base",
+    "tags": [
+      "Animal"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Lunar Mining",
+    "tier": "B",
+    "score": 72,
+    "expansion": "Colonies",
+    "tags": [
+      "Earth"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Mercurian Alloys",
+    "tier": "B",
+    "score": 72,
+    "expansion": "Promo",
+    "tags": [
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Predators",
+    "tier": "B",
+    "score": 72,
+    "expansion": "Base",
+    "tags": [
+      "Animal"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Research Coordination",
+    "tier": "B",
+    "score": 72,
+    "expansion": "Prelude",
+    "tags": [
+      "Wild"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Restricted Area",
+    "tier": "B",
+    "score": 72,
+    "expansion": "Corporate Era",
+    "tags": [
+      "Science"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Venusian Animals",
+    "tier": "B",
+    "score": 72,
+    "expansion": "Venus Next",
+    "tags": [
+      "Venus",
+      "Animal",
+      "Science"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "WG Project",
+    "tier": "B",
+    "score": 72,
+    "expansion": "Prelude 2",
+    "tags": [
+      "Earth"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Atmoscoop",
+    "tier": "B",
+    "score": 72,
+    "expansion": "Venus Next",
+    "tags": [
+      "Jovian",
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Colonial Representation",
+    "tier": "B",
+    "score": 72,
+    "expansion": "Prelude 2",
+    "tags": [],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Hermetic Order of Mars",
+    "tier": "B",
+    "score": 72,
+    "expansion": "Promo",
+    "tags": [],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Stratospheric Expedition",
+    "tier": "B",
+    "score": 72,
+    "expansion": "Prelude 2",
+    "tags": [
+      "Venus",
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Static Harvesting",
+    "tier": "B",
+    "score": 72,
+    "expansion": "Promo",
+    "tags": [
+      "Power"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Virus",
+    "tier": "B",
+    "score": 72,
+    "expansion": "Corporate Era",
+    "tags": [
+      "Microbe"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Invention Contest",
+    "tier": "B",
+    "score": 72,
+    "expansion": "Corporate Era",
+    "tags": [
+      "Science"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Rover Construction",
+    "tier": "B",
+    "score": 72,
+    "expansion": "Base",
+    "tags": [
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Farming",
+    "tier": "B",
+    "score": 72,
+    "expansion": "Base",
+    "tags": [
+      "Plant"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Medical Lab",
+    "tier": "B",
+    "score": 72,
+    "expansion": "Corporate Era",
+    "tags": [
+      "Science",
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Ants",
+    "tier": "B",
+    "score": 72,
+    "expansion": "Base",
+    "tags": [
+      "Microbe"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Martian Rails",
+    "tier": "B",
+    "score": 72,
+    "expansion": "Base",
+    "tags": [
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "AdvancedPowerGrid",
+    "tier": "B",
+    "score": 72,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Power",
+      "Building",
+      "Mars"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Pollinators",
+    "tier": "B",
+    "score": 72,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Plant",
+      "Animal"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Asteroid",
+    "tier": "B",
+    "score": 71,
+    "expansion": "Base",
+    "tags": [
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Flooding",
+    "tier": "B",
+    "score": 71,
+    "expansion": "Base",
+    "tags": [],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Gene Repair",
+    "tier": "B",
+    "score": 71,
+    "expansion": "Corporate Era",
+    "tags": [
+      "Science"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Luna Metropolis",
+    "tier": "B",
+    "score": 71,
+    "expansion": "Venus Next",
+    "tags": [
+      "City",
+      "Space",
+      "Earth"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Natural Preserve",
+    "tier": "B",
+    "score": 71,
+    "expansion": "Base",
+    "tags": [
+      "Science",
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Luna Governor",
+    "tier": "B",
+    "score": 71,
+    "expansion": "Colonies",
+    "tags": [
+      "Earth",
+      "Earth"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Ceres Tech Market",
+    "tier": "B",
+    "score": 71,
+    "expansion": "Prelude 2",
+    "tags": [
+      "Science",
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "NewVenice",
+    "tier": "B",
+    "score": 71,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Mars",
+      "Power",
+      "Building",
+      "City"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Business Contacts",
+    "tier": "B",
+    "score": 70,
+    "expansion": "Corporate Era",
+    "tags": [
+      "Earth"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Development Center",
+    "tier": "B",
+    "score": 70,
+    "expansion": "Corporate Era",
+    "tags": [
+      "Science",
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Heavy Taxation",
+    "tier": "B",
+    "score": 70,
+    "expansion": "Colonies",
+    "tags": [
+      "Earth"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Ishtar Expedition",
+    "tier": "B",
+    "score": 70,
+    "expansion": "Prelude 2",
+    "tags": [
+      "Venus"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Jovian Embassy",
+    "tier": "B",
+    "score": 70,
+    "expansion": "Promo",
+    "tags": [
+      "Jovian",
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Martian Zoo",
+    "tier": "B",
+    "score": 70,
+    "expansion": "Colonies",
+    "tags": [
+      "Animal",
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Mining Quota",
+    "tier": "B",
+    "score": 70,
+    "expansion": "Venus Next",
+    "tags": [
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Rim Freighters",
+    "tier": "B",
+    "score": 70,
+    "expansion": "Colonies",
+    "tags": [
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Sister Planet Support",
+    "tier": "B",
+    "score": 70,
+    "expansion": "Venus Next",
+    "tags": [
+      "Venus",
+      "Earth"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Space Elevator",
+    "tier": "B",
+    "score": 70,
+    "expansion": "Corporate Era",
+    "tags": [
+      "Space",
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Technology Demonstration",
+    "tier": "B",
+    "score": 70,
+    "expansion": "Corporate Era",
+    "tags": [
+      "Science",
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Wildlife Dome",
+    "tier": "B",
+    "score": 70,
+    "expansion": "Turmoil",
+    "tags": [
+      "Animal",
+      "Plant",
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Colonizer Training Camp",
+    "tier": "B",
+    "score": 70,
+    "expansion": "Base",
+    "tags": [
+      "Jovian",
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Noctis Farming",
+    "tier": "B",
+    "score": 70,
+    "expansion": "Base",
+    "tags": [
+      "Plant",
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "CEO's Favorite Project",
+    "tier": "B",
+    "score": 70,
+    "expansion": "Corporate Era",
+    "tags": [],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Noctis City",
+    "tier": "B",
+    "score": 70,
+    "expansion": "Base",
+    "tags": [
+      "City",
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "CommunicationCenter",
+    "tier": "B",
+    "score": 70,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Science",
+      "Mars",
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "ExpeditionToTheSurfaceVenus",
+    "tier": "B",
+    "score": 70,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Venus"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "SmallOpenPitMine",
+    "tier": "B",
+    "score": 70,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "EarlyExpedition",
+    "tier": "C",
+    "score": 69,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Science",
+      "Space",
+      "City"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Bushes",
+    "tier": "C",
+    "score": 68,
+    "expansion": "Base",
+    "tags": [
+      "Plant"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Cyberia Systems",
+    "tier": "C",
+    "score": 68,
+    "expansion": "Promo",
+    "tags": [],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Domed Crater",
+    "tier": "C",
+    "score": 68,
+    "expansion": "Base",
+    "tags": [
+      "City",
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Freyja Biodomes",
+    "tier": "C",
+    "score": 68,
+    "expansion": "Venus Next",
+    "tags": [
+      "Plant",
+      "Venus"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Io Mining Industries",
+    "tier": "C",
+    "score": 68,
+    "expansion": "Corporate Era",
+    "tags": [
+      "Jovian",
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Jovian Lanterns",
+    "tier": "C",
+    "score": 68,
+    "expansion": "Colonies",
+    "tags": [
+      "Jovian"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Lagrange Observatory",
+    "tier": "C",
+    "score": 68,
+    "expansion": "Corporate Era",
+    "tags": [
+      "Science",
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Mine",
+    "tier": "C",
+    "score": 68,
+    "expansion": "Corporate Era",
+    "tags": [
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Orbital Cleanup",
+    "tier": "C",
+    "score": 68,
+    "expansion": "Promo",
+    "tags": [
+      "Earth",
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Potatoes",
+    "tier": "C",
+    "score": 68,
+    "expansion": "Promo",
+    "tags": [
+      "Plant"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Project Inspection",
+    "tier": "C",
+    "score": 68,
+    "expansion": "Promo",
+    "tags": [],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Quantum Extractor",
+    "tier": "C",
+    "score": 68,
+    "expansion": "Corporate Era",
+    "tags": [
+      "Science",
+      "Power"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Saturn Surfing",
+    "tier": "C",
+    "score": 68,
+    "expansion": "Promo",
+    "tags": [
+      "Jovian",
+      "Earth"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Solar Wind Power",
+    "tier": "C",
+    "score": 68,
+    "expansion": "Base",
+    "tags": [
+      "Science",
+      "Space",
+      "Power"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Sponsored Academies",
+    "tier": "C",
+    "score": 68,
+    "expansion": "Venus Next",
+    "tags": [
+      "Earth",
+      "Science"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Strip Mine",
+    "tier": "C",
+    "score": 68,
+    "expansion": "Base",
+    "tags": [
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Zeppelins",
+    "tier": "C",
+    "score": 68,
+    "expansion": "Base",
+    "tags": [],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Productive Outpost",
+    "tier": "C",
+    "score": 68,
+    "expansion": "Colonies",
+    "tags": [],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Floater Technology",
+    "tier": "C",
+    "score": 68,
+    "expansion": "Colonies",
+    "tags": [
+      "Science"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Herbivores",
+    "tier": "C",
+    "score": 68,
+    "expansion": "Base",
+    "tags": [
+      "Animal"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Greenhouses",
+    "tier": "C",
+    "score": 68,
+    "expansion": "Base",
+    "tags": [
+      "Plant",
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "BreedingFarms",
+    "tier": "C",
+    "score": 68,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Science",
+      "Animal",
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "EconomicEspionage",
+    "tier": "C",
+    "score": 68,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Earth"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "SecretLabs",
+    "tier": "C",
+    "score": 68,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Jovian",
+      "Building",
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Asteroid Mining Consortium",
+    "tier": "C",
+    "score": 67,
+    "expansion": "Corporate Era",
+    "tags": [
+      "Jovian"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Dirigibles",
+    "tier": "C",
+    "score": 67,
+    "expansion": "Venus Next",
+    "tags": [
+      "Venus"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Giant Solar Shade",
+    "tier": "C",
+    "score": 67,
+    "expansion": "Venus Next",
+    "tags": [
+      "Space",
+      "Venus"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Investment Loan",
+    "tier": "C",
+    "score": 67,
+    "expansion": "Corporate Era",
+    "tags": [
+      "Earth"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Mining Rights",
+    "tier": "C",
+    "score": 67,
+    "expansion": "Base",
+    "tags": [
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Titan Shuttles",
+    "tier": "C",
+    "score": 67,
+    "expansion": "Colonies",
+    "tags": [
+      "Jovian",
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Soil Studies",
+    "tier": "C",
+    "score": 67,
+    "expansion": "Prelude 2",
+    "tags": [
+      "Microbe",
+      "Plant"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Neptunian Power Consultants",
+    "tier": "C",
+    "score": 67,
+    "expansion": "Promo",
+    "tags": [
+      "Power"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "ControlledBloom",
+    "tier": "C",
+    "score": 67,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Microbe",
+      "Plant"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Acquired Company",
+    "tier": "C",
+    "score": 66,
+    "expansion": "Corporate Era",
+    "tags": [
+      "Earth"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Bactoviral Research",
+    "tier": "C",
+    "score": 66,
+    "expansion": "Promo",
+    "tags": [
+      "Microbe",
+      "Science"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Convoy From Europa",
+    "tier": "C",
+    "score": 66,
+    "expansion": "Base",
+    "tags": [
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Dawn City",
+    "tier": "C",
+    "score": 66,
+    "expansion": "Venus Next",
+    "tags": [
+      "City",
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Envoys From Venus",
+    "tier": "C",
+    "score": 66,
+    "expansion": "Prelude 2",
+    "tags": [
+      "Venus"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Galilean Waystation",
+    "tier": "C",
+    "score": 66,
+    "expansion": "Colonies",
+    "tags": [
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Industrial Microbes",
+    "tier": "C",
+    "score": 66,
+    "expansion": "Base",
+    "tags": [
+      "Microbe",
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Methane From Titan",
+    "tier": "C",
+    "score": 66,
+    "expansion": "Base",
+    "tags": [
+      "Jovian",
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Peroxide Power",
+    "tier": "C",
+    "score": 66,
+    "expansion": "Base",
+    "tags": [
+      "Power",
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Protected Valley",
+    "tier": "C",
+    "score": 66,
+    "expansion": "Base",
+    "tags": [
+      "Plant",
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Solar Reflectors",
+    "tier": "C",
+    "score": 66,
+    "expansion": "Colonies",
+    "tags": [
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Space Station",
+    "tier": "C",
+    "score": 66,
+    "expansion": "Corporate Era",
+    "tags": [
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Titan Floating Launch-pad",
+    "tier": "C",
+    "score": 66,
+    "expansion": "Colonies",
+    "tags": [
+      "Jovian"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Titanium Mine",
+    "tier": "C",
+    "score": 66,
+    "expansion": "Corporate Era",
+    "tags": [
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Floating Habs",
+    "tier": "C",
+    "score": 66,
+    "expansion": "Venus Next",
+    "tags": [
+      "Venus"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Capital",
+    "tier": "C",
+    "score": 66,
+    "expansion": "Base",
+    "tags": [
+      "City",
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "CultivationOfVenus",
+    "tier": "C",
+    "score": 66,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Plant",
+      "Venus"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "MicrobiologyPatents",
+    "tier": "C",
+    "score": 66,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Mars",
+      "Microbe"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "OzoneGenerators",
+    "tier": "C",
+    "score": 66,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Mars",
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "RichDeposits",
+    "tier": "C",
+    "score": 66,
+    "expansion": "Pathfinders",
+    "tags": [],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Aerial Mappers",
+    "tier": "C",
+    "score": 65,
+    "expansion": "Venus Next",
+    "tags": [
+      "Venus"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Corona Extractor",
+    "tier": "C",
+    "score": 65,
+    "expansion": "Colonies",
+    "tags": [
+      "Space",
+      "Power"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Directed Heat Usage",
+    "tier": "C",
+    "score": 65,
+    "expansion": "Promo",
+    "tags": [],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Floyd Continuum",
+    "tier": "C",
+    "score": 65,
+    "expansion": "Promo",
+    "tags": [
+      "Science"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Great Dam:promo",
+    "tier": "C",
+    "score": 65,
+    "expansion": "Promo",
+    "tags": [
+      "Power",
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Miranda Resort",
+    "tier": "C",
+    "score": 65,
+    "expansion": "Corporate Era",
+    "tags": [
+      "Jovian",
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Nitrophilic Moss",
+    "tier": "C",
+    "score": 65,
+    "expansion": "Base",
+    "tags": [
+      "Plant"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Plantation",
+    "tier": "C",
+    "score": 65,
+    "expansion": "Base",
+    "tags": [
+      "Plant"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Self-replicating Robots",
+    "tier": "C",
+    "score": 65,
+    "expansion": "Promo",
+    "tags": [],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Towing A Comet",
+    "tier": "C",
+    "score": 65,
+    "expansion": "Base",
+    "tags": [
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Lava Flows",
+    "tier": "C",
+    "score": 65,
+    "expansion": "Base",
+    "tags": [],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "CharityDonation",
+    "tier": "C",
+    "score": 65,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Mars"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "HighTempSuperconductors",
+    "tier": "C",
+    "score": 65,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Power",
+      "Science"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "MartianMonuments",
+    "tier": "C",
+    "score": 65,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Mars",
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "OrbitalLaboratories",
+    "tier": "C",
+    "score": 65,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Science",
+      "Plant",
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "SpaceDebrisCleaningOperation",
+    "tier": "C",
+    "score": 65,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Mars",
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Interstellar Colony Ship",
+    "tier": "C",
+    "score": 64,
+    "expansion": "Corporate Era",
+    "tags": [
+      "Earth",
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Bribed Committee",
+    "tier": "C",
+    "score": 64,
+    "expansion": "Corporate Era",
+    "tags": [
+      "Earth"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Cryo-Sleep",
+    "tier": "C",
+    "score": 64,
+    "expansion": "Colonies",
+    "tags": [
+      "Science"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Cupola City",
+    "tier": "C",
+    "score": 64,
+    "expansion": "Base",
+    "tags": [
+      "City",
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Earth Elevator",
+    "tier": "C",
+    "score": 64,
+    "expansion": "Colonies",
+    "tags": [
+      "Space",
+      "Earth"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Extremophiles",
+    "tier": "C",
+    "score": 64,
+    "expansion": "Venus Next",
+    "tags": [
+      "Venus",
+      "Microbe"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "GHG Factories",
+    "tier": "C",
+    "score": 64,
+    "expansion": "Base",
+    "tags": [
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Great Dam",
+    "tier": "C",
+    "score": 64,
+    "expansion": "Base",
+    "tags": [
+      "Power",
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Heather",
+    "tier": "C",
+    "score": 64,
+    "expansion": "Base",
+    "tags": [
+      "Plant"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Jupiter Floating Station",
+    "tier": "C",
+    "score": 64,
+    "expansion": "Colonies",
+    "tags": [
+      "Jovian"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Maxwell Base",
+    "tier": "C",
+    "score": 64,
+    "expansion": "Venus Next",
+    "tags": [
+      "City",
+      "Venus"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Power Plant",
+    "tier": "C",
+    "score": 64,
+    "expansion": "Base",
+    "tags": [
+      "Power",
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Refugee Camps",
+    "tier": "C",
+    "score": 64,
+    "expansion": "Colonies",
+    "tags": [
+      "Earth"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Soil Enrichment",
+    "tier": "C",
+    "score": 64,
+    "expansion": "Promo",
+    "tags": [
+      "Microbe",
+      "Plant"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Sponsors",
+    "tier": "C",
+    "score": 64,
+    "expansion": "Corporate Era",
+    "tags": [
+      "Earth"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Supported Research",
+    "tier": "C",
+    "score": 64,
+    "expansion": "Turmoil",
+    "tags": [
+      "Science"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Toll Station",
+    "tier": "C",
+    "score": 64,
+    "expansion": "Corporate Era",
+    "tags": [
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Worms",
+    "tier": "C",
+    "score": 64,
+    "expansion": "Base",
+    "tags": [
+      "Microbe"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Protected Growth",
+    "tier": "C",
+    "score": 64,
+    "expansion": "Promo",
+    "tags": [
+      "Plant"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "CoordinatedRaid",
+    "tier": "C",
+    "score": 64,
+    "expansion": "Pathfinders",
+    "tags": [],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "InterplanetaryTransport",
+    "tier": "C",
+    "score": 64,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Earth",
+      "Jovian",
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "PowerPlant",
+    "tier": "C",
+    "score": 64,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Mars",
+      "Power",
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Artificial Lake",
+    "tier": "C",
+    "score": 63,
+    "expansion": "Base",
+    "tags": [
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Crash Site Cleanup",
+    "tier": "C",
+    "score": 63,
+    "expansion": "Promo",
+    "tags": [],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Eos Chasma National Park",
+    "tier": "C",
+    "score": 63,
+    "expansion": "Base",
+    "tags": [
+      "Plant",
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Floater Prototypes",
+    "tier": "C",
+    "score": 63,
+    "expansion": "Colonies",
+    "tags": [
+      "Science"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Fusion Power",
+    "tier": "C",
+    "score": 63,
+    "expansion": "Base",
+    "tags": [
+      "Science",
+      "Power",
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Io Sulphur Research",
+    "tier": "C",
+    "score": 63,
+    "expansion": "Venus Next",
+    "tags": [
+      "Science",
+      "Jovian"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Jovian Envoys",
+    "tier": "C",
+    "score": 63,
+    "expansion": "Prelude 2",
+    "tags": [],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Local Heat Trapping",
+    "tier": "C",
+    "score": 63,
+    "expansion": "Base",
+    "tags": [],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Molecular Printing",
+    "tier": "C",
+    "score": 63,
+    "expansion": "Colonies",
+    "tags": [
+      "Science"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Public Baths",
+    "tier": "C",
+    "score": 63,
+    "expansion": "Promo",
+    "tags": [
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Small Animals",
+    "tier": "C",
+    "score": 63,
+    "expansion": "Base",
+    "tags": [
+      "Animal"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Urban Decomposers",
+    "tier": "C",
+    "score": 63,
+    "expansion": "Colonies",
+    "tags": [
+      "Microbe"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Vesta Shipyard",
+    "tier": "C",
+    "score": 63,
+    "expansion": "Corporate Era",
+    "tags": [
+      "Jovian",
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Venus Shuttles",
+    "tier": "C",
+    "score": 63,
+    "expansion": "Prelude 2",
+    "tags": [
+      "Venus"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Energy Tapping",
+    "tier": "C",
+    "score": 63,
+    "expansion": "Corporate Era",
+    "tags": [
+      "Power"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Summit Logistics",
+    "tier": "C",
+    "score": 63,
+    "expansion": "Prelude 2",
+    "tags": [
+      "Building",
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Vermin",
+    "tier": "C",
+    "score": 63,
+    "expansion": "Promo",
+    "tags": [
+      "Microbe",
+      "Animal"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Anthozoa",
+    "tier": "C",
+    "score": 63,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Plant",
+      "Animal",
+      "Mars"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "LuxuryEstate",
+    "tier": "C",
+    "score": 63,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Earth",
+      "Mars",
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "16 Psyche",
+    "tier": "C",
+    "score": 62,
+    "expansion": "Promo",
+    "tags": [
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Breathing Filters",
+    "tier": "C",
+    "score": 62,
+    "expansion": "Base",
+    "tags": [
+      "Science"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Building Industries",
+    "tier": "C",
+    "score": 62,
+    "expansion": "Corporate Era",
+    "tags": [
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Diaspora Movement",
+    "tier": "C",
+    "score": 62,
+    "expansion": "Turmoil",
+    "tags": [
+      "Jovian"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Fuel Factory",
+    "tier": "C",
+    "score": 62,
+    "expansion": "Corporate Era",
+    "tags": [
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Inventors' Guild",
+    "tier": "C",
+    "score": 62,
+    "expansion": "Corporate Era",
+    "tags": [
+      "Science"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Lake Marineris",
+    "tier": "C",
+    "score": 62,
+    "expansion": "Base",
+    "tags": [],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Lichen",
+    "tier": "C",
+    "score": 62,
+    "expansion": "Base",
+    "tags": [
+      "Plant"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Lightning Harvest",
+    "tier": "C",
+    "score": 62,
+    "expansion": "Corporate Era",
+    "tags": [
+      "Power"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Lunar Beam",
+    "tier": "C",
+    "score": 62,
+    "expansion": "Base",
+    "tags": [
+      "Earth",
+      "Power"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Magnetic Shield",
+    "tier": "C",
+    "score": 62,
+    "expansion": "Promo",
+    "tags": [
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Moss",
+    "tier": "C",
+    "score": 62,
+    "expansion": "Base",
+    "tags": [
+      "Plant"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Nuclear Power",
+    "tier": "C",
+    "score": 62,
+    "expansion": "Base",
+    "tags": [
+      "Power",
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Permafrost Extraction",
+    "tier": "C",
+    "score": 62,
+    "expansion": "Base",
+    "tags": [],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Rad-Chem Factory",
+    "tier": "C",
+    "score": 62,
+    "expansion": "Base",
+    "tags": [
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Rego Plastics",
+    "tier": "C",
+    "score": 62,
+    "expansion": "Promo",
+    "tags": [
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Shuttles",
+    "tier": "C",
+    "score": 62,
+    "expansion": "Base",
+    "tags": [
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Small Asteroid",
+    "tier": "C",
+    "score": 62,
+    "expansion": "Promo",
+    "tags": [
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Solarnet",
+    "tier": "C",
+    "score": 62,
+    "expansion": "Venus Next",
+    "tags": [],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Subterranean Reservoir",
+    "tier": "C",
+    "score": 62,
+    "expansion": "Base",
+    "tags": [],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Venus Governor",
+    "tier": "C",
+    "score": 62,
+    "expansion": "Venus Next",
+    "tags": [
+      "Venus",
+      "Venus"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Venus Trade Hub",
+    "tier": "C",
+    "score": 62,
+    "expansion": "Prelude 2",
+    "tags": [
+      "Venus",
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Casinos",
+    "tier": "C",
+    "score": 62,
+    "expansion": "Promo",
+    "tags": [
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Corporate Stronghold",
+    "tier": "C",
+    "score": 62,
+    "expansion": "Corporate Era",
+    "tags": [
+      "City",
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Floating Refinery",
+    "tier": "C",
+    "score": 62,
+    "expansion": "Prelude 2",
+    "tags": [
+      "Venus"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Hydrogen to Venus",
+    "tier": "C",
+    "score": 62,
+    "expansion": "Venus Next",
+    "tags": [
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Extreme-Cold Fungus",
+    "tier": "C",
+    "score": 62,
+    "expansion": "Base",
+    "tags": [
+      "Microbe"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "LastResortIngenuity",
+    "tier": "C",
+    "score": 62,
+    "expansion": "Pathfinders",
+    "tags": [],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "MuseumofEarlyColonisation",
+    "tier": "C",
+    "score": 62,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Building",
+      "Mars"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "SoilDetoxification",
+    "tier": "C",
+    "score": 62,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Plant",
+      "Science"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Media Archives",
+    "tier": "C",
+    "score": 61,
+    "expansion": "Corporate Era",
+    "tags": [
+      "Earth"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Spin-Inducing Asteroid",
+    "tier": "C",
+    "score": 61,
+    "expansion": "Venus Next",
+    "tags": [
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Symbiotic Fungus",
+    "tier": "C",
+    "score": 61,
+    "expansion": "Base",
+    "tags": [
+      "Microbe"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Weather Balloons",
+    "tier": "C",
+    "score": 61,
+    "expansion": "Promo",
+    "tags": [
+      "Science"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "DustStorm",
+    "tier": "C",
+    "score": 61,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Mars"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Advertising",
+    "tier": "C",
+    "score": 60,
+    "expansion": "Promo",
+    "tags": [
+      "Earth"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Beam From A Thorium Asteroid",
+    "tier": "C",
+    "score": 60,
+    "expansion": "Base",
+    "tags": [
+      "Jovian",
+      "Space",
+      "Power"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Deuterium Export",
+    "tier": "C",
+    "score": 60,
+    "expansion": "Venus Next",
+    "tags": [
+      "Space",
+      "Venus",
+      "Power"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "GHG Import From Venus",
+    "tier": "C",
+    "score": 60,
+    "expansion": "Venus Next",
+    "tags": [
+      "Space",
+      "Venus"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Hi-Tech Lab",
+    "tier": "C",
+    "score": 60,
+    "expansion": "Promo",
+    "tags": [
+      "Science",
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Immigrant City",
+    "tier": "C",
+    "score": 60,
+    "expansion": "Base",
+    "tags": [
+      "City",
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Import of Advanced GHG",
+    "tier": "C",
+    "score": 60,
+    "expansion": "Base",
+    "tags": [
+      "Earth",
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Industrial Center",
+    "tier": "C",
+    "score": 60,
+    "expansion": "Corporate Era",
+    "tags": [
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Martian Survey",
+    "tier": "C",
+    "score": 60,
+    "expansion": "Prelude",
+    "tags": [
+      "Science"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Minority Refuge",
+    "tier": "C",
+    "score": 60,
+    "expansion": "Colonies",
+    "tags": [
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Mohole Lake",
+    "tier": "C",
+    "score": 60,
+    "expansion": "Promo",
+    "tags": [
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Omnicourt",
+    "tier": "C",
+    "score": 60,
+    "expansion": "Venus Next",
+    "tags": [
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Political Alliance",
+    "tier": "C",
+    "score": 60,
+    "expansion": "Turmoil",
+    "tags": [],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Power Supply Consortium",
+    "tier": "C",
+    "score": 60,
+    "expansion": "Corporate Era",
+    "tags": [
+      "Power"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Red Appeasement",
+    "tier": "C",
+    "score": 60,
+    "expansion": "Prelude 2",
+    "tags": [],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Solar Probe",
+    "tier": "C",
+    "score": 60,
+    "expansion": "Colonies",
+    "tags": [
+      "Space",
+      "Science"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Soletta",
+    "tier": "C",
+    "score": 60,
+    "expansion": "Base",
+    "tags": [
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Sponsored Mohole",
+    "tier": "C",
+    "score": 60,
+    "expansion": "Turmoil",
+    "tags": [
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Venus Allies",
+    "tier": "C",
+    "score": 60,
+    "expansion": "Prelude 2",
+    "tags": [
+      "Venus",
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "BotanicalExperience",
+    "tier": "C",
+    "score": 60,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Plant",
+      "Mars",
+      "Science"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "MartianCulture",
+    "tier": "C",
+    "score": 60,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Mars",
+      "Mars"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "PublicSponsoredGrant",
+    "tier": "C",
+    "score": 60,
+    "expansion": "Pathfinders",
+    "tags": [],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "RedCity",
+    "tier": "C",
+    "score": 60,
+    "expansion": "Pathfinders",
+    "tags": [
+      "City",
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "SocialEvents",
+    "tier": "C",
+    "score": 60,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Earth",
+      "Mars"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Corroder Suits",
+    "tier": "C",
+    "score": 59,
+    "expansion": "Venus Next",
+    "tags": [
+      "Venus"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Pets",
+    "tier": "C",
+    "score": 59,
+    "expansion": "Base",
+    "tags": [
+      "Earth",
+      "Animal"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "RareEarthElements",
+    "tier": "C",
+    "score": 59,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Earth",
+      "Mars"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "GHG Producing Bacteria",
+    "tier": "C",
+    "score": 58,
+    "expansion": "Base",
+    "tags": [
+      "Science",
+      "Microbe"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Aqueduct Systems",
+    "tier": "C",
+    "score": 58,
+    "expansion": "Promo",
+    "tags": [
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Bio Printing Facility",
+    "tier": "C",
+    "score": 58,
+    "expansion": "Promo",
+    "tags": [
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Deep Well Heating",
+    "tier": "C",
+    "score": 58,
+    "expansion": "Base",
+    "tags": [
+      "Power",
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Fueled Generators",
+    "tier": "C",
+    "score": 58,
+    "expansion": "Base",
+    "tags": [
+      "Power",
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Gyropolis",
+    "tier": "C",
+    "score": 58,
+    "expansion": "Venus Next",
+    "tags": [
+      "City",
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Imported GHG",
+    "tier": "C",
+    "score": 58,
+    "expansion": "Base",
+    "tags": [
+      "Earth",
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Mineral Deposit",
+    "tier": "C",
+    "score": 58,
+    "expansion": "Corporate Era",
+    "tags": [],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "New Holland",
+    "tier": "C",
+    "score": 58,
+    "expansion": "Promo",
+    "tags": [
+      "City",
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Nitrogen from Titan",
+    "tier": "C",
+    "score": 58,
+    "expansion": "Colonies",
+    "tags": [
+      "Jovian",
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "PR Office",
+    "tier": "C",
+    "score": 58,
+    "expansion": "Turmoil",
+    "tags": [
+      "Earth"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Recruitment",
+    "tier": "C",
+    "score": 58,
+    "expansion": "Turmoil",
+    "tags": [],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Satellites",
+    "tier": "C",
+    "score": 58,
+    "expansion": "Corporate Era",
+    "tags": [
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Trans-Neptune Probe",
+    "tier": "C",
+    "score": 58,
+    "expansion": "Corporate Era",
+    "tags": [
+      "Science",
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Tropical Resort",
+    "tier": "C",
+    "score": 58,
+    "expansion": "Corporate Era",
+    "tags": [
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Water Import From Europa",
+    "tier": "C",
+    "score": 58,
+    "expansion": "Base",
+    "tags": [
+      "Jovian",
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Martian Lumber Corp",
+    "tier": "C",
+    "score": 58,
+    "expansion": "Promo",
+    "tags": [
+      "Building",
+      "Plant"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Airliners",
+    "tier": "C",
+    "score": 58,
+    "expansion": "Colonies",
+    "tags": [],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Land Claim",
+    "tier": "C",
+    "score": 58,
+    "expansion": "Corporate Era",
+    "tags": [],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "EconomicHelp",
+    "tier": "C",
+    "score": 58,
+    "expansion": "Pathfinders",
+    "tags": [],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "ReturntoAbandonedTechnology",
+    "tier": "C",
+    "score": 58,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Mars"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Solarpedia",
+    "tier": "C",
+    "score": 58,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "ArchaeBacteria",
+    "tier": "C",
+    "score": 57,
+    "expansion": "Base",
+    "tags": [
+      "Microbe"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Artificial Photosynthesis",
+    "tier": "C",
+    "score": 57,
+    "expansion": "Base",
+    "tags": [
+      "Science"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Giant Space Mirror",
+    "tier": "C",
+    "score": 57,
+    "expansion": "Base",
+    "tags": [
+      "Power",
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Grass",
+    "tier": "C",
+    "score": 57,
+    "expansion": "Base",
+    "tags": [
+      "Plant"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "SF Memorial",
+    "tier": "C",
+    "score": 57,
+    "expansion": "Prelude",
+    "tags": [
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Wave Power",
+    "tier": "C",
+    "score": 57,
+    "expansion": "Base",
+    "tags": [
+      "Power"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Supermarkets",
+    "tier": "C",
+    "score": 57,
+    "expansion": "Promo",
+    "tags": [],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Cloud Tourism",
+    "tier": "C",
+    "score": 56,
+    "expansion": "Prelude 2",
+    "tags": [
+      "Jovian",
+      "Venus"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Community Services",
+    "tier": "C",
+    "score": 56,
+    "expansion": "Colonies",
+    "tags": [],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Geothermal Power",
+    "tier": "C",
+    "score": 56,
+    "expansion": "Base",
+    "tags": [
+      "Power",
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Luxury Foods",
+    "tier": "C",
+    "score": 56,
+    "expansion": "Venus Next",
+    "tags": [],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Phobos Space Haven",
+    "tier": "C",
+    "score": 56,
+    "expansion": "Base",
+    "tags": [
+      "Space",
+      "City"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Physics Complex",
+    "tier": "C",
+    "score": 56,
+    "expansion": "Corporate Era",
+    "tags": [
+      "Science",
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Robot Pollinators",
+    "tier": "C",
+    "score": 56,
+    "expansion": "Promo",
+    "tags": [],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Special Permit",
+    "tier": "C",
+    "score": 56,
+    "expansion": "Prelude 2",
+    "tags": [
+      "Plant"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Supercapacitors",
+    "tier": "C",
+    "score": 56,
+    "expansion": "Promo",
+    "tags": [
+      "Power",
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Water to Venus",
+    "tier": "C",
+    "score": 56,
+    "expansion": "Venus Next",
+    "tags": [
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Windmills",
+    "tier": "C",
+    "score": 56,
+    "expansion": "Base",
+    "tags": [
+      "Power",
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Biomass Combustors",
+    "tier": "C",
+    "score": 56,
+    "expansion": "Base",
+    "tags": [
+      "Power",
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "House Printing",
+    "tier": "C",
+    "score": 56,
+    "expansion": "Prelude",
+    "tags": [
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Stratopolis",
+    "tier": "C",
+    "score": 56,
+    "expansion": "Venus Next",
+    "tags": [
+      "City",
+      "Venus"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "HydrogenProcessingPlant",
+    "tier": "C",
+    "score": 56,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Building",
+      "Power"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Air-Scrapping Expedition",
+    "tier": "C",
+    "score": 55,
+    "expansion": "Venus Next",
+    "tags": [
+      "Venus"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "City Parks",
+    "tier": "C",
+    "score": 55,
+    "expansion": "Promo",
+    "tags": [
+      "Plant"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Comet Aiming",
+    "tier": "C",
+    "score": 55,
+    "expansion": "Promo",
+    "tags": [
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Comet for Venus",
+    "tier": "C",
+    "score": 55,
+    "expansion": "Venus Next",
+    "tags": [
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Directed Impactors",
+    "tier": "C",
+    "score": 55,
+    "expansion": "Promo",
+    "tags": [
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Hired Raiders",
+    "tier": "C",
+    "score": 55,
+    "expansion": "Corporate Era",
+    "tags": [],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Ironworks",
+    "tier": "C",
+    "score": 55,
+    "expansion": "Base",
+    "tags": [
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Local Shading",
+    "tier": "C",
+    "score": 55,
+    "expansion": "Venus Next",
+    "tags": [
+      "Venus"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Magnetic Field Generators:promo",
+    "tier": "C",
+    "score": 55,
+    "expansion": "Promo",
+    "tags": [
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Market Manipulation",
+    "tier": "C",
+    "score": 55,
+    "expansion": "Colonies",
+    "tags": [
+      "Earth"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Mining Expedition",
+    "tier": "C",
+    "score": 55,
+    "expansion": "Base",
+    "tags": [],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Ore Processor",
+    "tier": "C",
+    "score": 55,
+    "expansion": "Base",
+    "tags": [
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Public Celebrations",
+    "tier": "C",
+    "score": 55,
+    "expansion": "Turmoil",
+    "tags": [],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Release of Inert Gases",
+    "tier": "C",
+    "score": 55,
+    "expansion": "Base",
+    "tags": [],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Search For Life",
+    "tier": "C",
+    "score": 55,
+    "expansion": "Base",
+    "tags": [
+      "Science"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Stanford Torus",
+    "tier": "C",
+    "score": 55,
+    "expansion": "Promo",
+    "tags": [
+      "Space",
+      "City"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Tectonic Stress Power",
+    "tier": "C",
+    "score": 55,
+    "expansion": "Base",
+    "tags": [
+      "Power",
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Unexpected Application",
+    "tier": "C",
+    "score": 55,
+    "expansion": "Prelude 2",
+    "tags": [
+      "Venus"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Urbanized Area",
+    "tier": "C",
+    "score": 55,
+    "expansion": "Base",
+    "tags": [
+      "City",
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Asteroid Deflection System",
+    "tier": "C",
+    "score": 55,
+    "expansion": "Promo",
+    "tags": [
+      "Space",
+      "Earth",
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Diversity Support",
+    "tier": "C",
+    "score": 55,
+    "expansion": "Promo",
+    "tags": [],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "CassiniStation",
+    "tier": "C",
+    "score": 55,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Power",
+      "Science",
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Kickstarter",
+    "tier": "C",
+    "score": 55,
+    "expansion": "Pathfinders",
+    "tags": [],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "LobbyHalls",
+    "tier": "C",
+    "score": 55,
+    "expansion": "Pathfinders",
+    "tags": [],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "SmallComet",
+    "tier": "C",
+    "score": 55,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Mars",
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "MartianNatureWonders",
+    "tier": "D",
+    "score": 54,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Mars"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Venus Waystation",
+    "tier": "D",
+    "score": 53,
+    "expansion": "Venus Next",
+    "tags": [
+      "Venus",
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "NobelLabs",
+    "tier": "D",
+    "score": 53,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Science"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Adapted Lichen",
+    "tier": "D",
+    "score": 52,
+    "expansion": "Base",
+    "tags": [
+      "Plant"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Commercial District",
+    "tier": "D",
+    "score": 52,
+    "expansion": "Corporate Era",
+    "tags": [
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Interplanetary Trade",
+    "tier": "D",
+    "score": 52,
+    "expansion": "Promo",
+    "tags": [
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Law Suit",
+    "tier": "D",
+    "score": 52,
+    "expansion": "Promo",
+    "tags": [
+      "Earth"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Outdoor Sports",
+    "tier": "D",
+    "score": 52,
+    "expansion": "Promo",
+    "tags": [],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Red Tourism Wave",
+    "tier": "D",
+    "score": 52,
+    "expansion": "Turmoil",
+    "tags": [
+      "Earth"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Regolith Eaters",
+    "tier": "D",
+    "score": 52,
+    "expansion": "Base",
+    "tags": [
+      "Science",
+      "Microbe"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Sub-zero Salt Fish",
+    "tier": "D",
+    "score": 52,
+    "expansion": "Colonies",
+    "tags": [
+      "Animal"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Tundra Farming",
+    "tier": "D",
+    "score": 52,
+    "expansion": "Base",
+    "tags": [
+      "Plant"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "AgroDrones",
+    "tier": "D",
+    "score": 52,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Plant",
+      "Mars"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "DataLeak",
+    "tier": "D",
+    "score": 52,
+    "expansion": "Pathfinders",
+    "tags": [],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "PrivateSecurity",
+    "tier": "D",
+    "score": 52,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Earth"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Cryptocurrency",
+    "tier": "D",
+    "score": 51,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Power"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Asteroid Mining",
+    "tier": "D",
+    "score": 50,
+    "expansion": "Base",
+    "tags": [
+      "Jovian",
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Carbonate Processing",
+    "tier": "D",
+    "score": 50,
+    "expansion": "Base",
+    "tags": [
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Cloud Seeding",
+    "tier": "D",
+    "score": 50,
+    "expansion": "Base",
+    "tags": [],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Energy Saving",
+    "tier": "D",
+    "score": 50,
+    "expansion": "Base",
+    "tags": [
+      "Power"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "GHG Shipment",
+    "tier": "D",
+    "score": 50,
+    "expansion": "Prelude 2",
+    "tags": [
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Immigration Shuttles",
+    "tier": "D",
+    "score": 50,
+    "expansion": "Base",
+    "tags": [
+      "Earth",
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Ishtar Mining",
+    "tier": "D",
+    "score": 50,
+    "expansion": "Venus Next",
+    "tags": [
+      "Venus"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Lava Tube Settlement",
+    "tier": "D",
+    "score": 50,
+    "expansion": "Prelude",
+    "tags": [
+      "Building",
+      "City"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Microgravity Nutrition",
+    "tier": "D",
+    "score": 50,
+    "expansion": "Prelude 2",
+    "tags": [
+      "Microbe",
+      "Plant"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Public Plans",
+    "tier": "D",
+    "score": 50,
+    "expansion": "Promo",
+    "tags": [],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Special Design",
+    "tier": "D",
+    "score": 50,
+    "expansion": "Base",
+    "tags": [
+      "Science"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Venusian Insects",
+    "tier": "D",
+    "score": 50,
+    "expansion": "Venus Next",
+    "tags": [
+      "Venus",
+      "Microbe"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Venusian Plants",
+    "tier": "D",
+    "score": 50,
+    "expansion": "Venus Next",
+    "tags": [
+      "Venus",
+      "Plant"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "DesignedOrganisms",
+    "tier": "D",
+    "score": 50,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Science",
+      "Plant",
+      "Mars"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Adaptation Technology",
+    "tier": "D",
+    "score": 48,
+    "expansion": "Base",
+    "tags": [
+      "Science"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Atmo Collectors",
+    "tier": "D",
+    "score": 48,
+    "expansion": "Colonies",
+    "tags": [],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Extractor Balloons",
+    "tier": "D",
+    "score": 48,
+    "expansion": "Venus Next",
+    "tags": [
+      "Venus"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Great Escarpment Consortium",
+    "tier": "D",
+    "score": 48,
+    "expansion": "Corporate Era",
+    "tags": [],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Hospitals",
+    "tier": "D",
+    "score": 48,
+    "expansion": "Promo",
+    "tags": [
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Neutralizer Factory",
+    "tier": "D",
+    "score": 48,
+    "expansion": "Venus Next",
+    "tags": [
+      "Venus"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Snow Algae",
+    "tier": "D",
+    "score": 48,
+    "expansion": "Promo",
+    "tags": [
+      "Plant"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Solar Power",
+    "tier": "D",
+    "score": 48,
+    "expansion": "Base",
+    "tags": [
+      "Power",
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Tardigrades",
+    "tier": "D",
+    "score": 48,
+    "expansion": "Corporate Era",
+    "tags": [
+      "Microbe"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Vote Of No Confidence",
+    "tier": "D",
+    "score": 48,
+    "expansion": "Turmoil",
+    "tags": [],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Water Splitting Plant",
+    "tier": "D",
+    "score": 48,
+    "expansion": "Base",
+    "tags": [
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Hackers",
+    "tier": "D",
+    "score": 48,
+    "expansion": "Corporate Era",
+    "tags": [],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "TerraformingRobots",
+    "tier": "D",
+    "score": 48,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Science"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Callisto Penal Mines",
+    "tier": "D",
+    "score": 46,
+    "expansion": "Corporate Era",
+    "tags": [
+      "Jovian",
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Forced Precipitation",
+    "tier": "D",
+    "score": 46,
+    "expansion": "Venus Next",
+    "tags": [
+      "Venus"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Sabotage",
+    "tier": "D",
+    "score": 46,
+    "expansion": "Corporate Era",
+    "tags": [],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Colonial Envoys",
+    "tier": "D",
+    "score": 45,
+    "expansion": "Prelude 2",
+    "tags": [],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Equatorial Magnetizer",
+    "tier": "D",
+    "score": 45,
+    "expansion": "Base",
+    "tags": [
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Heat Trappers",
+    "tier": "D",
+    "score": 45,
+    "expansion": "Base",
+    "tags": [
+      "Power",
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Magnetic Field Dome",
+    "tier": "D",
+    "score": 45,
+    "expansion": "Base",
+    "tags": [
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Meltworks",
+    "tier": "D",
+    "score": 45,
+    "expansion": "Promo",
+    "tags": [
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Rad-Suits",
+    "tier": "D",
+    "score": 45,
+    "expansion": "Corporate Era",
+    "tags": [],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Sulphur Exports",
+    "tier": "D",
+    "score": 45,
+    "expansion": "Venus Next",
+    "tags": [
+      "Venus",
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "DeclarationOfIndependence",
+    "tier": "D",
+    "score": 45,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Mars"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "FloaterUrbanism",
+    "tier": "D",
+    "score": 45,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Venus"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Black Polar Dust",
+    "tier": "D",
+    "score": 44,
+    "expansion": "Base",
+    "tags": [],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Teslaract",
+    "tier": "D",
+    "score": 44,
+    "expansion": "Promo",
+    "tags": [
+      "Power",
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Venus Soils",
+    "tier": "D",
+    "score": 44,
+    "expansion": "Venus Next",
+    "tags": [
+      "Venus",
+      "Plant"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Aerosport Tournament",
+    "tier": "D",
+    "score": 44,
+    "expansion": "Venus Next",
+    "tags": [],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Banned Delegate",
+    "tier": "D",
+    "score": 42,
+    "expansion": "Turmoil",
+    "tags": [],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Designed Microorganisms",
+    "tier": "D",
+    "score": 42,
+    "expansion": "Base",
+    "tags": [
+      "Science",
+      "Microbe"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Icy Impactors",
+    "tier": "D",
+    "score": 42,
+    "expansion": "Promo",
+    "tags": [
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Magnetic Field Generators",
+    "tier": "D",
+    "score": 42,
+    "expansion": "Base",
+    "tags": [
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Nitrite Reducing Bacteria",
+    "tier": "D",
+    "score": 42,
+    "expansion": "Base",
+    "tags": [
+      "Microbe"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Parliament Hall",
+    "tier": "D",
+    "score": 42,
+    "expansion": "Turmoil",
+    "tags": [
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Power Grid",
+    "tier": "D",
+    "score": 42,
+    "expansion": "Base",
+    "tags": [
+      "Power"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Space Mirrors",
+    "tier": "D",
+    "score": 42,
+    "expansion": "Base",
+    "tags": [
+      "Power",
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Steelworks",
+    "tier": "D",
+    "score": 42,
+    "expansion": "Base",
+    "tags": [
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Food Factory",
+    "tier": "D",
+    "score": 42,
+    "expansion": "Base",
+    "tags": [
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Titan Air-scrapping",
+    "tier": "D",
+    "score": 42,
+    "expansion": "Colonies",
+    "tags": [
+      "Jovian"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Rotator Impacts",
+    "tier": "D",
+    "score": 42,
+    "expansion": "Venus Next",
+    "tags": [
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "OumuamuaTypeObjectSurvey",
+    "tier": "D",
+    "score": 42,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Space",
+      "Science"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Aerobraked Ammonia Asteroid",
+    "tier": "D",
+    "score": 40,
+    "expansion": "Base",
+    "tags": [
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Insulation",
+    "tier": "D",
+    "score": 40,
+    "expansion": "Base",
+    "tags": [],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Pioneer Settlement",
+    "tier": "D",
+    "score": 40,
+    "expansion": "Colonies",
+    "tags": [
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Power Infrastructure",
+    "tier": "D",
+    "score": 40,
+    "expansion": "Corporate Era",
+    "tags": [
+      "Power",
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Soil Factory",
+    "tier": "D",
+    "score": 40,
+    "expansion": "Base",
+    "tags": [
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "St. Joseph of Cupertino Mission",
+    "tier": "D",
+    "score": 40,
+    "expansion": "Promo",
+    "tags": [],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Crashlanding",
+    "tier": "D",
+    "score": 40,
+    "expansion": "Pathfinders",
+    "tags": [],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Air Raid",
+    "tier": "D",
+    "score": 38,
+    "expansion": "Colonies",
+    "tags": [],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Floater Leasing",
+    "tier": "D",
+    "score": 38,
+    "expansion": "Colonies",
+    "tags": [],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Impactor Swarm",
+    "tier": "D",
+    "score": 38,
+    "expansion": "Colonies",
+    "tags": [
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Micro-Mills",
+    "tier": "D",
+    "score": 38,
+    "expansion": "Base",
+    "tags": [],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Security Fleet",
+    "tier": "D",
+    "score": 38,
+    "expansion": "Corporate Era",
+    "tags": [
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Thermophiles",
+    "tier": "D",
+    "score": 38,
+    "expansion": "Venus Next",
+    "tags": [
+      "Venus",
+      "Microbe"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Underground City",
+    "tier": "D",
+    "score": 38,
+    "expansion": "Base",
+    "tags": [
+      "City",
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "SolarStorm",
+    "tier": "D",
+    "score": 38,
+    "expansion": "Pathfinders",
+    "tags": [
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Jet Stream Microscrappers",
+    "tier": "D",
+    "score": 36,
+    "expansion": "Venus Next",
+    "tags": [
+      "Venus"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Aquifer Pumping",
+    "tier": "D",
+    "score": 35,
+    "expansion": "Base",
+    "tags": [
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Dust Seals",
+    "tier": "D",
+    "score": 35,
+    "expansion": "Base",
+    "tags": [],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Ice Cap Melting",
+    "tier": "D",
+    "score": 35,
+    "expansion": "Base",
+    "tags": [],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Orbital Reflectors",
+    "tier": "D",
+    "score": 35,
+    "expansion": "Venus Next",
+    "tags": [
+      "Venus",
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Venus Magnetizer",
+    "tier": "D",
+    "score": 35,
+    "expansion": "Venus Next",
+    "tags": [
+      "Venus"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Asteroid Hollowing",
+    "tier": "F",
+    "score": 30,
+    "expansion": "Promo",
+    "tags": [
+      "Space"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Aerial Lenses",
+    "tier": "F",
+    "score": 20,
+    "expansion": "Turmoil",
+    "tags": [],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "Underground Detonations",
+    "tier": "F",
+    "score": 15,
+    "expansion": "Base",
+    "tags": [
+      "Building"
+    ],
+    "category": "Проектные карты"
+  },
+  {
+    "name": "VanAllen",
+    "tier": "S",
+    "score": 92,
+    "expansion": "CEOs",
+    "tags": [],
+    "category": "CEO"
+  },
+  {
+    "name": "Naomi",
+    "tier": "A",
+    "score": 82,
+    "expansion": "CEOs",
+    "tags": [],
+    "category": "CEO"
+  },
+  {
+    "name": "Asimov",
+    "tier": "A",
+    "score": 80,
+    "expansion": "CEOs",
+    "tags": [],
+    "category": "CEO"
+  },
+  {
+    "name": "Oscar",
+    "tier": "A",
+    "score": 80,
+    "expansion": "CEOs",
+    "tags": [],
+    "category": "CEO"
+  },
+  {
+    "name": "Zan",
+    "tier": "B",
+    "score": 78,
+    "expansion": "CEOs",
+    "tags": [],
+    "category": "CEO"
+  },
+  {
+    "name": "Huan",
+    "tier": "B",
+    "score": 75,
+    "expansion": "CEOs",
+    "tags": [],
+    "category": "CEO"
+  },
+  {
+    "name": "Karen",
+    "tier": "B",
+    "score": 73,
+    "expansion": "CEOs",
+    "tags": [],
+    "category": "CEO"
+  },
+  {
+    "name": "CoLeadership",
+    "tier": "B",
+    "score": 72,
+    "expansion": "CEOs",
+    "tags": [],
+    "category": "CEO"
+  },
+  {
+    "name": "Greta",
+    "tier": "B",
+    "score": 72,
+    "expansion": "CEOs",
+    "tags": [],
+    "category": "CEO"
+  },
+  {
+    "name": "Xavier",
+    "tier": "B",
+    "score": 72,
+    "expansion": "CEOs",
+    "tags": [],
+    "category": "CEO"
+  },
+  {
+    "name": "Faraday",
+    "tier": "B",
+    "score": 70,
+    "expansion": "CEOs",
+    "tags": [],
+    "category": "CEO"
+  },
+  {
+    "name": "Gordon",
+    "tier": "B",
+    "score": 70,
+    "expansion": "CEOs",
+    "tags": [],
+    "category": "CEO"
+  },
+  {
+    "name": "Stefan",
+    "tier": "B",
+    "score": 70,
+    "expansion": "CEOs",
+    "tags": [],
+    "category": "CEO"
+  },
+  {
+    "name": "Floyd",
+    "tier": "C",
+    "score": 68,
+    "expansion": "CEOs",
+    "tags": [],
+    "category": "CEO"
+  },
+  {
+    "name": "Duncan",
+    "tier": "C",
+    "score": 65,
+    "expansion": "CEOs",
+    "tags": [],
+    "category": "CEO"
+  },
+  {
+    "name": "Musk",
+    "tier": "C",
+    "score": 65,
+    "expansion": "CEOs",
+    "tags": [],
+    "category": "CEO"
+  },
+  {
+    "name": "Ulrich",
+    "tier": "C",
+    "score": 65,
+    "expansion": "CEOs",
+    "tags": [],
+    "category": "CEO"
+  },
+  {
+    "name": "Lowell",
+    "tier": "C",
+    "score": 62,
+    "expansion": "CEOs",
+    "tags": [
+      "WILD"
+    ],
+    "category": "CEO"
+  },
+  {
+    "name": "Maria",
+    "tier": "C",
+    "score": 62,
+    "expansion": "CEOs",
+    "tags": [],
+    "category": "CEO"
+  },
+  {
+    "name": "Tate",
+    "tier": "C",
+    "score": 61,
+    "expansion": "CEOs",
+    "tags": [],
+    "category": "CEO"
+  },
+  {
+    "name": "Ingrid",
+    "tier": "C",
+    "score": 60,
+    "expansion": "CEOs",
+    "tags": [],
+    "category": "CEO"
+  },
+  {
+    "name": "Jansson",
+    "tier": "C",
+    "score": 60,
+    "expansion": "CEOs",
+    "tags": [],
+    "category": "CEO"
+  },
+  {
+    "name": "Petra",
+    "tier": "C",
+    "score": 60,
+    "expansion": "CEOs",
+    "tags": [],
+    "category": "CEO"
+  },
+  {
+    "name": "Ryu",
+    "tier": "C",
+    "score": 58,
+    "expansion": "CEOs",
+    "tags": [],
+    "category": "CEO"
+  },
+  {
+    "name": "Yvonne",
+    "tier": "C",
+    "score": 56,
+    "expansion": "CEOs",
+    "tags": [],
+    "category": "CEO"
+  },
+  {
+    "name": "Clarke",
+    "tier": "C",
+    "score": 55,
+    "expansion": "CEOs",
+    "tags": [],
+    "category": "CEO"
+  },
+  {
+    "name": "Xu",
+    "tier": "C",
+    "score": 55,
+    "expansion": "CEOs",
+    "tags": [
+      "VENUS"
+    ],
+    "category": "CEO"
+  },
+  {
+    "name": "Ender",
+    "tier": "D",
+    "score": 52,
+    "expansion": "CEOs",
+    "tags": [],
+    "category": "CEO"
+  },
+  {
+    "name": "Will",
+    "tier": "D",
+    "score": 52,
+    "expansion": "CEOs",
+    "tags": [],
+    "category": "CEO"
+  },
+  {
+    "name": "Quill",
+    "tier": "D",
+    "score": 48,
+    "expansion": "CEOs",
+    "tags": [],
+    "category": "CEO"
+  },
+  {
+    "name": "Rogers",
+    "tier": "D",
+    "score": 48,
+    "expansion": "CEOs",
+    "tags": [],
+    "category": "CEO"
+  },
+  {
+    "name": "Bjorn",
+    "tier": "D",
+    "score": 45,
+    "expansion": "CEOs",
+    "tags": [],
+    "category": "CEO"
+  },
+  {
+    "name": "HAL9000",
+    "tier": "D",
+    "score": 45,
+    "expansion": "CEOs",
+    "tags": [],
+    "category": "CEO"
+  },
+  {
+    "name": "Neil",
+    "tier": "D",
+    "score": 45,
+    "expansion": "CEOs",
+    "tags": [],
+    "category": "CEO"
+  },
+  {
+    "name": "Shara",
+    "tier": "D",
+    "score": 42,
+    "expansion": "CEOs",
+    "tags": [],
+    "category": "CEO"
+  },
+  {
+    "name": "Caesar",
+    "tier": "D",
+    "score": 35,
+    "expansion": "CEOs",
+    "tags": [],
+    "category": "CEO"
+  },
+  {
+    "name": "Apollo",
+    "tier": "F",
+    "score": 30,
+    "expansion": "CEOs",
+    "tags": [],
+    "category": "CEO"
+  },
+  {
+    "name": "Gaia",
+    "tier": "F",
+    "score": 28,
+    "expansion": "CEOs",
+    "tags": [],
+    "category": "CEO"
+  }
+]
