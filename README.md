@@ -1,6 +1,6 @@
 # playwright-sandbox
 
-Эксперименты с Playwright: accessibility, e2e, API intercept, performance, scraping, visual regression.
+Эксперименты с Playwright: accessibility, e2e, keyboard, API intercept, performance, scraping, visual regression.
 
 Тесты написаны для сайта [tm-tierlist](https://rusliksu.github.io/tm-tierlist) — тир-листа карт Terraforming Mars.
 
@@ -11,6 +11,7 @@
 | `a11y.spec.ts` | WCAG 2.1 AA проверка всех страниц через axe-core |
 | `api-intercept.spec.ts` | Перехват запросов, мок, passthrough, блокировка ресурсов |
 | `e2e.spec.ts` | End-to-end: навигация, язык, фильтры, поиск, модалка |
+| `keyboard.spec.ts` | Keyboard navigation: Tab, Enter, Escape, стрелки, a11y-пробелы |
 | `perf.spec.ts` | Замер LCP, FCP, TTFB через Performance API |
 | `scrape.spec.ts` | Парсинг карт с тир-листа → JSON |
 | `visual.spec.ts` | Visual regression — 7 тестов, pixel-perfect сравнение |
@@ -59,6 +60,22 @@ npx playwright test --ui
 | Ожидание ответа | `page.waitForResponse()` |
 
 Использует [JSONPlaceholder](https://jsonplaceholder.typicode.com) как тестовый API.
+
+## keyboard.spec.ts
+
+Тестирует keyboard navigation и документирует a11y-пробелы:
+
+| Группа | Тест | Результат |
+|--------|------|-----------|
+| Поиск | `keyboard.type()` фильтрует карты | ✅ работает |
+| Поиск | `Ctrl+A` + `Delete` очищает поле | ✅ работает |
+| Модалка | `Escape` закрывает модалку | ✅ работает |
+| Модалка | `ArrowRight`/`ArrowLeft` навигация | ✅ работает |
+| Модалка | Focus trap | ⚠ не реализован — фокус уходит наружу |
+| Фильтры | `Enter` на кнопке сброса | ✅ работает |
+| Фильтры | `Space` на filter-chip | ⚠ не работает — нет `tabindex`, нет keydown-обработчика |
+
+Тесты на a11y-пробелы проверяют фактическое поведение (ожидают `false`/`null`) и документируют ограничения сайта — полезно для последующего исправления.
 
 ## e2e.spec.ts
 
@@ -128,17 +145,18 @@ npx playwright test visual.spec.ts --ui
 
 ## Итоги
 
-**37 тестов, все зелёные:**
+**43 теста, все зелёные:**
 
 | Файл | Тестов |
 |------|--------|
 | `a11y.spec.ts` | 7 |
 | `api-intercept.spec.ts` | 5 |
 | `e2e.spec.ts` | 12 |
+| `keyboard.spec.ts` | 7 |
 | `perf.spec.ts` | 4 |
 | `scrape.spec.ts` | 1 |
 | `visual.spec.ts` | 7 |
-| **Итого** | **37** |
+| **Итого** | **43** |
 
 ## Стек
 
