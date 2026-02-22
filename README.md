@@ -9,6 +9,7 @@
 | Файл | Что делает |
 |------|-----------|
 | `a11y.spec.ts` | WCAG 2.1 AA проверка всех страниц через axe-core |
+| `api-intercept.spec.ts` | Перехват запросов, мок, passthrough, блокировка ресурсов |
 | `perf.spec.ts` | Замер LCP, FCP, TTFB через Performance API |
 | `scrape.spec.ts` | Парсинг карт с тир-листа → JSON |
 | `to-csv.ts` | Конвертация JSON → CSV (UTF-8 BOM, разделитель `;`) |
@@ -56,6 +57,20 @@ npx ts-node to-csv.ts
 ```
 
 Результат: `tm-tierlist-cards.json` (684 карты), `tm-tierlist-cards-v2.csv` (открывается в Excel).
+
+## api-intercept.spec.ts
+
+Демонстрирует 5 техник работы с сетью в Playwright:
+
+| Тест | Техника |
+|------|---------|
+| Логирование запросов | `page.on('response')` |
+| Мок ответа | `route.fulfill()` |
+| Passthrough + модификация | `route.fetch()` → patch → `route.fulfill()` |
+| Блокировка ресурсов | `route.abort()` по glob-паттерну |
+| Ожидание ответа | `page.waitForResponse()` |
+
+Использует [JSONPlaceholder](https://jsonplaceholder.typicode.com) как тестовый API.
 
 ## perf.spec.ts
 
