@@ -1,6 +1,6 @@
 # playwright-sandbox
 
-Эксперименты с Playwright: accessibility, performance, scraping, API intercept, visual regression.
+Эксперименты с Playwright: accessibility, e2e, API intercept, performance, scraping, visual regression.
 
 Тесты написаны для сайта [tm-tierlist](https://rusliksu.github.io/tm-tierlist) — тир-листа карт Terraforming Mars.
 
@@ -31,7 +31,7 @@ npx playwright install chromium
 npx playwright test
 
 # Конкретный файл
-npx playwright test a11y.spec.ts
+npx playwright test e2e.spec.ts
 
 # С UI (trace viewer)
 npx playwright test --ui
@@ -46,20 +46,6 @@ npx playwright test --ui
 
 Блокирует на `critical` и `serious` нарушениях. Дополнительно проверяет наличие `alt` у всех `<img>` и контрастность на главной.
 
-## scrape.spec.ts + to-csv.ts
-
-Парсит все карточки (`.card`) с 4 страниц тир-листа, извлекает `name`, `tier`, `score`, `expansion`, `tags`.
-
-```bash
-# Спарсить в JSON
-npx playwright test scrape.spec.ts
-
-# Конвертировать в CSV
-npx ts-node to-csv.ts
-```
-
-Результат: `tm-tierlist-cards.json` (684 карты), `tm-tierlist-cards-v2.csv` (открывается в Excel).
-
 ## api-intercept.spec.ts
 
 Демонстрирует 5 техник работы с сетью в Playwright:
@@ -73,6 +59,48 @@ npx ts-node to-csv.ts
 | Ожидание ответа | `page.waitForResponse()` |
 
 Использует [JSONPlaceholder](https://jsonplaceholder.typicode.com) как тестовый API.
+
+## e2e.spec.ts
+
+End-to-end тесты пользовательских сценариев:
+
+| Группа | Тестов | Что проверяем |
+|--------|--------|---------------|
+| Навигация | 2 | главная → корпорации → прелюдии → назад; все 4 страницы открываются |
+| Язык | 2 | RU→EN меняет тексты; EN→RU возвращает кириллицу |
+| Фильтры | 3 | фильтр по тиру; фильтр по тегу; кнопка сброса |
+| Поиск | 2 | поиск по имени; поиск без результатов даёт 0 карт |
+| Модалка | 3 | открытие с данными; закрытие ×; навигация prev/next |
+
+**Нюансы реализации:**
+- URL-проверка через regex: GitHub Pages может вернуть `/index.html` вместо `/`
+- Тир-фильтр: `data-tier` нет на карточках (тир в JS-объекте `cardsData`), поэтому проверяем через `#tier-S .card:not(.filtered-out)` vs общий счётчик
+
+## perf.spec.ts
+
+Измеряет производительность через `PerformanceNavigationTiming` и `PerformanceObserver`:
+
+| Тест | Что измеряем |
+|------|-------------|
+| Core Web Vitals — главная | TTFB, FCP, DOMContentLoaded, размер страницы |
+| Core Web Vitals — корпорации | те же метрики для страницы с 67 картами |
+| Сетевые запросы | типы ресурсов, количество, суммарный размер |
+| 5 холодных загрузок | min/max/avg DOMContentLoaded |
+| LCP через PerformanceObserver | Largest Contentful Paint с оценкой Good/Needs Improvement/Poor |
+
+## scrape.spec.ts + to-csv.ts
+
+Парсит все карточки (`.card`) с 4 страниц тир-листа, извлекает `name`, `tier`, `score`, `expansion`, `tags`.
+
+```bash
+# Спарсить в JSON
+npx playwright test scrape.spec.ts
+
+# Конвертировать в CSV
+npx ts-node to-csv.ts
+```
+
+Результат: `tm-tierlist-cards.json` (684 карты), `tm-tierlist-cards-v2.csv` (открывается в Excel).
 
 ## visual.spec.ts
 
@@ -97,34 +125,6 @@ npx playwright test visual.spec.ts --update-snapshots
 # Просмотреть diff в UI
 npx playwright test visual.spec.ts --ui
 ```
-
-## perf.spec.ts
-
-Измеряет производительность через `PerformanceNavigationTiming` и `PerformanceObserver`:
-
-| Тест | Что измеряем |
-|------|-------------|
-| Core Web Vitals — главная | TTFB, FCP, DOMContentLoaded, размер страницы |
-| Core Web Vitals — корпорации | те же метрики для страницы с 67 картами |
-| Сетевые запросы | типы ресурсов, количество, суммарный размер |
-| 5 холодных загрузок | min/max/avg DOMContentLoaded |
-| LCP через PerformanceObserver | Largest Contentful Paint с оценкой Good/Needs Improvement/Poor |
-
-## e2e.spec.ts
-
-End-to-end тесты пользовательских сценариев:
-
-| Группа | Тестов | Что проверяем |
-|--------|--------|---------------|
-| Навигация | 2 | главная → корпорации → прелюдии → назад; все 4 страницы открываются |
-| Язык | 2 | RU→EN меняет тексты; EN→RU возвращает кириллицу |
-| Фильтры | 3 | фильтр по тиру; фильтр по тегу; кнопка сброса |
-| Поиск | 2 | поиск по имени; поиск без результатов даёт 0 карт |
-| Модалка | 3 | открытие с данными; закрытие ×; навигация prev/next |
-
-**Нюансы реализации:**
-- URL-проверка через regex: GitHub Pages может вернуть `/index.html` вместо `/`
-- Тир-фильтр: `data-tier` нет на карточках (тир в JS-объекте `cardsData`), поэтому проверяем через `#tier-S .card:not(.filtered-out)` vs общий счётчик
 
 ## Итоги
 
