@@ -1,6 +1,6 @@
 # playwright-sandbox
 
-Эксперименты с Playwright: accessibility, e2e, keyboard, API intercept, performance, scraping, visual regression.
+Эксперименты с Playwright: accessibility, e2e, keyboard, network, API intercept, performance, scraping, visual regression.
 
 Тесты написаны для сайта [tm-tierlist](https://rusliksu.github.io/tm-tierlist) — тир-листа карт Terraforming Mars.
 
@@ -12,6 +12,7 @@
 | `api-intercept.spec.ts` | Перехват запросов, мок, passthrough, блокировка ресурсов |
 | `e2e.spec.ts` | End-to-end: навигация, язык, фильтры, поиск, модалка |
 | `keyboard.spec.ts` | Keyboard navigation: Tab, Enter, Escape, стрелки, a11y-пробелы |
+| `network.spec.ts` | Эмуляция сети: slow/fast 3G, offline, влияние ресурсов |
 | `perf.spec.ts` | Замер LCP, FCP, TTFB через Performance API |
 | `scrape.spec.ts` | Парсинг карт с тир-листа → JSON |
 | `visual.spec.ts` | Visual regression — 7 тестов, pixel-perfect сравнение |
@@ -93,6 +94,22 @@ End-to-end тесты пользовательских сценариев:
 - URL-проверка через regex: GitHub Pages может вернуть `/index.html` вместо `/`
 - Тир-фильтр: `data-tier` нет на карточках (тир в JS-объекте `cardsData`), поэтому проверяем через `#tier-S .card:not(.filtered-out)` vs общий счётчик
 
+## network.spec.ts
+
+Эмуляция сетевых условий через CDP (Chrome DevTools Protocol):
+
+| Группа | Тест | Что делает |
+|--------|------|-----------|
+| Throttling | Baseline | Нормальное соединение — замер DOMContentLoaded |
+| Throttling | Slow 3G | 400kbps / 400ms latency через `Network.emulateNetworkConditions` |
+| Throttling | Fast 3G | 1.5mbps / 150ms latency — промежуточный профиль |
+| Offline | Навигация | `offline: true` → `net::ERR_INTERNET_DISCONNECTED` |
+| Offline | Восстановление | offline → online → страница грузится нормально |
+| Resource impact | Картинки | `waitUntil: 'load'` с картинками vs без — замер разницы |
+| Resource impact | CSS | Блокировка CSS → контент доступен, стилей нет |
+
+Использует `page.context().newCDPSession(page)` для доступа к CDP — это Chromium-only API.
+
 ## perf.spec.ts
 
 Измеряет производительность через `PerformanceNavigationTiming` и `PerformanceObserver`:
@@ -145,7 +162,7 @@ npx playwright test visual.spec.ts --ui
 
 ## Итоги
 
-**43 теста, все зелёные:**
+**50 тестов, все зелёные:**
 
 | Файл | Тестов |
 |------|--------|
@@ -153,10 +170,11 @@ npx playwright test visual.spec.ts --ui
 | `api-intercept.spec.ts` | 5 |
 | `e2e.spec.ts` | 12 |
 | `keyboard.spec.ts` | 7 |
+| `network.spec.ts` | 7 |
 | `perf.spec.ts` | 4 |
 | `scrape.spec.ts` | 1 |
 | `visual.spec.ts` | 7 |
-| **Итого** | **43** |
+| **Итого** | **50** |
 
 ## Стек
 
